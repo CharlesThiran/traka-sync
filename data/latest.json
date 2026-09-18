@@ -1,8 +1,59 @@
 {
- "generated": "2026-09-18T09:38:11Z",
+ "generated": "2026-09-18T11:37:25Z",
  "days": 28,
+ "recap": {
+  "thisWeek": {
+   "sessions": 4,
+   "hours": 4.4,
+   "tss": 205,
+   "km": 119,
+   "hardDays": 0
+  },
+  "lastWeek": {
+   "sessions": 4,
+   "hours": 3.5,
+   "tss": 134,
+   "km": 91,
+   "hardDays": 2
+  },
+  "hrvLast": 45,
+  "hrv7dAvg": 48,
+  "sleep7dAvg": 70,
+  "rhr7dAvg": 57
+ },
+ "powerCurve": {
+  "5": {
+   "watts": 705,
+   "date": "2026-09-12"
+  },
+  "15": {
+   "watts": 553,
+   "date": "2026-09-12"
+  },
+  "30": {
+   "watts": 386,
+   "date": "2026-09-12"
+  },
+  "60": {
+   "watts": 314,
+   "date": "2026-09-11"
+  },
+  "300": {
+   "watts": 239,
+   "date": "2026-09-12"
+  },
+  "600": {
+   "watts": 225,
+   "date": "2026-09-05"
+  },
+  "1200": {
+   "watts": 215,
+   "date": "2026-09-12"
+  }
+ },
  "activities": [
   {
+   "id": 24068935233,
    "date": "2026-08-22",
    "name": "Granite - TrainerRoad",
    "sport": "indoor_cycling",
@@ -18,11 +69,10 @@
    "avgCadence": 88,
    "tss": 48.0,
    "if": 0.69,
-   "kj": 2188,
-   "aerobicEffect": 3.7,
-   "anaerobicEffect": 0.1
+   "kj": 2188
   },
   {
+   "id": 24086167239,
    "date": "2026-08-23",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -38,11 +88,10 @@
    "avgCadence": 85,
    "tss": 141.4,
    "if": 0.72,
-   "kj": 7330,
-   "aerobicEffect": 5.0,
-   "anaerobicEffect": 3.6
+   "kj": 7330
   },
   {
+   "id": 24114427784,
    "date": "2026-08-25",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -58,11 +107,10 @@
    "avgCadence": 85,
    "tss": 61.3,
    "if": 0.6,
-   "kj": 4351,
-   "aerobicEffect": 3.8,
-   "anaerobicEffect": 1.6
+   "kj": 4351
   },
   {
+   "id": 24105196755,
    "date": "2026-08-25",
    "name": "Tagliaferro - TrainerRoad",
    "sport": "indoor_cycling",
@@ -78,11 +126,10 @@
    "avgCadence": 83,
    "tss": 29.0,
    "if": 0.7,
-   "kj": 1389,
-   "aerobicEffect": 3.1,
-   "anaerobicEffect": 0.0
+   "kj": 1389
   },
   {
+   "id": 24127895522,
    "date": "2026-08-26",
    "name": "Schaarbeek - Axis",
    "sport": "road_biking",
@@ -98,11 +145,10 @@
    "avgCadence": 85,
    "tss": 119.3,
    "if": 0.7,
-   "kj": 6661,
-   "aerobicEffect": 4.8,
-   "anaerobicEffect": 3.0
+   "kj": 6661
   },
   {
+   "id": 24156465055,
    "date": "2026-08-29",
    "name": "Lobuche - TrainerRoad",
    "sport": "indoor_cycling",
@@ -118,11 +164,10 @@
    "avgCadence": 83,
    "tss": 59.0,
    "if": 0.77,
-   "kj": 2326,
-   "aerobicEffect": 3.8,
-   "anaerobicEffect": 0.0
+   "kj": 2326
   },
   {
+   "id": 24187408210,
    "date": "2026-08-31",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -138,11 +183,10 @@
    "avgCadence": 82,
    "tss": 58.8,
    "if": 0.6,
-   "kj": 4092,
-   "aerobicEffect": 3.5,
-   "anaerobicEffect": 1.1
+   "kj": 4092
   },
   {
+   "id": 24200633369,
    "date": "2026-09-01",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -158,11 +202,10 @@
    "avgCadence": 84,
    "tss": 127.0,
    "if": 0.74,
-   "kj": 6774,
-   "aerobicEffect": 4.9,
-   "anaerobicEffect": 3.1
+   "kj": 6774
   },
   {
+   "id": 24191842837,
    "date": "2026-09-01",
    "name": "Vranilac - TrainerRoad",
    "sport": "indoor_cycling",
@@ -178,11 +221,10 @@
    "avgCadence": 88,
    "tss": 46.0,
    "if": 0.83,
-   "kj": 1795,
-   "aerobicEffect": 3.5,
-   "anaerobicEffect": 0.3
+   "kj": 1795
   },
   {
+   "id": 24214656895,
    "date": "2026-09-02",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -198,11 +240,10 @@
    "avgCadence": 79,
    "tss": 48.0,
    "if": 0.53,
-   "kj": 3803,
-   "aerobicEffect": 3.1,
-   "anaerobicEffect": 0.4
+   "kj": 3803
   },
   {
+   "id": 24238134056,
    "date": "2026-09-04",
    "name": "Laurel - TrainerRoad",
    "sport": "indoor_cycling",
@@ -218,11 +259,10 @@
    "avgCadence": 86,
    "tss": 30.0,
    "if": 0.78,
-   "kj": 1222,
-   "aerobicEffect": 2.8,
-   "anaerobicEffect": 2.3
+   "kj": 1222
   },
   {
+   "id": 24247294357,
    "date": "2026-09-05",
    "name": "Aywaille Road Cycling",
    "sport": "road_biking",
@@ -238,11 +278,10 @@
    "avgCadence": 81,
    "tss": 185.1,
    "if": 0.84,
-   "kj": 8017,
-   "aerobicEffect": 5.0,
-   "anaerobicEffect": 3.5
+   "kj": 8017
   },
   {
+   "id": 24262216735,
    "date": "2026-09-06",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -258,11 +297,10 @@
    "avgCadence": 84,
    "tss": 120.7,
    "if": 0.79,
-   "kj": 5573,
-   "aerobicEffect": 4.1,
-   "anaerobicEffect": 3.7
+   "kj": 5573
   },
   {
+   "id": 24275148875,
    "date": "2026-09-07",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -278,11 +316,10 @@
    "avgCadence": 81,
    "tss": 48.7,
    "if": 0.52,
-   "kj": 3904,
-   "aerobicEffect": 2.7,
-   "anaerobicEffect": 0.0
+   "kj": 3904
   },
   {
+   "id": 24319845673,
    "date": "2026-09-11",
    "name": "Mechelen Running",
    "sport": "running",
@@ -298,11 +335,10 @@
    "avgCadence": null,
    "tss": null,
    "if": null,
-   "kj": 1025,
-   "aerobicEffect": 2.0,
-   "anaerobicEffect": 0.0
+   "kj": 1025
   },
   {
+   "id": 24332824882,
    "date": "2026-09-12",
    "name": "Brussels Road Cycling",
    "sport": "road_biking",
@@ -318,11 +354,10 @@
    "avgCadence": 92,
    "tss": 59.5,
    "if": 0.9,
-   "kj": 2640,
-   "aerobicEffect": 5.0,
-   "anaerobicEffect": 4.2
+   "kj": 2640
   },
   {
+   "id": 24331780866,
    "date": "2026-09-12",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -338,11 +373,10 @@
    "avgCadence": 79,
    "tss": 26.3,
    "if": 0.7,
-   "kj": 1360,
-   "aerobicEffect": 3.0,
-   "anaerobicEffect": 2.3
+   "kj": 1360
   },
   {
+   "id": 24373230930,
    "date": "2026-09-15",
    "name": "Mechelen Road Cycling",
    "sport": "road_biking",
@@ -358,11 +392,10 @@
    "avgCadence": 84,
    "tss": 31.0,
    "if": 0.61,
-   "kj": 2176,
-   "aerobicEffect": 2.7,
-   "anaerobicEffect": 0.4
+   "kj": 2176
   },
   {
+   "id": 24366147455,
    "date": "2026-09-15",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -378,11 +411,10 @@
    "avgCadence": 80,
    "tss": 52.2,
    "if": 0.82,
-   "kj": 2205,
-   "aerobicEffect": 3.5,
-   "anaerobicEffect": 2.9
+   "kj": 2205
   },
   {
+   "id": 24386573991,
    "date": "2026-09-16",
    "name": "Schaarbeek Road Cycling",
    "sport": "road_biking",
@@ -398,11 +430,10 @@
    "avgCadence": 81,
    "tss": 54.1,
    "if": 0.56,
-   "kj": 4121,
-   "aerobicEffect": 3.0,
-   "anaerobicEffect": 0.0
+   "kj": 4121
   },
   {
+   "id": 24398925668,
    "date": "2026-09-17",
    "name": "The Priest - TrainerRoad",
    "sport": "indoor_cycling",
@@ -418,9 +449,7 @@
    "avgCadence": 83,
    "tss": 68.0,
    "if": 0.82,
-   "kj": 2481,
-   "aerobicEffect": 3.2,
-   "anaerobicEffect": 2.2
+   "kj": 2481
   }
  ],
  "wellness": [
@@ -428,307 +457,205 @@
    "date": "2026-08-23",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 118,
-   "stressAvg": null,
+   "vo2max": 54.1,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-08-25",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 105,
-   "stressAvg": null,
+   "vo2max": 54.0,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-08-26",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 102,
-   "stressAvg": null,
+   "vo2max": 53.9,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-08-31",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 108,
-   "stressAvg": null,
+   "vo2max": 54.4,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-09-01",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 101,
-   "stressAvg": null,
+   "vo2max": 54.4,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-09-02",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 117,
-   "stressAvg": null,
+   "vo2max": 54.4,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-09-05",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 60,
-   "stressAvg": null,
+   "vo2max": 55.2,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-09-06",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 98,
-   "stressAvg": null,
+   "vo2max": 55.3,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-09-07",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 78,
-   "stressAvg": null,
+   "vo2max": 55.3,
    "bodyBatteryMax": null,
-   "bodyBatteryMin": null,
-   "bodyBatteryCharged": null,
-   "bodyBatteryDrained": null
+   "bodyBatteryMin": null
   },
   {
    "date": "2026-09-11",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 63,
-   "stressAvg": 26,
+   "vo2max": 55.3,
    "bodyBatteryMax": 63,
-   "bodyBatteryMin": 44,
-   "bodyBatteryCharged": 0,
-   "bodyBatteryDrained": 19
+   "bodyBatteryMin": 44
   },
   {
    "date": "2026-09-12",
    "sleepScore": null,
    "sleepHours": null,
-   "deepSleepHours": null,
-   "remSleepHours": null,
    "hrv": null,
    "hrvWeeklyAvg": null,
    "hrvStatus": null,
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 64,
-   "stressAvg": 71,
+   "vo2max": null,
    "bodyBatteryMax": 92,
-   "bodyBatteryMin": 25,
-   "bodyBatteryCharged": 0,
-   "bodyBatteryDrained": 39
+   "bodyBatteryMin": 25
   },
   {
    "date": "2026-09-13",
    "sleepScore": 40,
    "sleepHours": 7.3,
-   "deepSleepHours": 1.0,
-   "remSleepHours": null,
    "hrv": 30,
    "hrvWeeklyAvg": null,
    "hrvStatus": "NONE",
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 61,
-   "stressAvg": 32,
+   "vo2max": null,
    "bodyBatteryMax": 51,
-   "bodyBatteryMin": 21,
-   "bodyBatteryCharged": 43,
-   "bodyBatteryDrained": 17
+   "bodyBatteryMin": 21
   },
   {
    "date": "2026-09-14",
    "sleepScore": 83,
    "sleepHours": 7.4,
-   "deepSleepHours": 0.8,
-   "remSleepHours": 1.4,
    "hrv": 59,
    "hrvWeeklyAvg": null,
    "hrvStatus": "NONE",
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 53,
-   "stressAvg": 18,
+   "vo2max": null,
    "bodyBatteryMax": 100,
-   "bodyBatteryMin": 38,
-   "bodyBatteryCharged": 60,
-   "bodyBatteryDrained": 65
+   "bodyBatteryMin": 38
   },
   {
    "date": "2026-09-15",
    "sleepScore": 82,
    "sleepHours": 7.5,
-   "deepSleepHours": 1.7,
-   "remSleepHours": 1.0,
    "hrv": 54,
    "hrvWeeklyAvg": null,
    "hrvStatus": "NONE",
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 53,
-   "stressAvg": 28,
+   "vo2max": null,
    "bodyBatteryMax": 100,
-   "bodyBatteryMin": 27,
-   "bodyBatteryCharged": 72,
-   "bodyBatteryDrained": 73
+   "bodyBatteryMin": 27
   },
   {
    "date": "2026-09-16",
    "sleepScore": 68,
    "sleepHours": 7.0,
-   "deepSleepHours": 1.0,
-   "remSleepHours": 1.4,
    "hrv": 48,
    "hrvWeeklyAvg": 46,
    "hrvStatus": "NONE",
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 55,
-   "stressAvg": 27,
+   "vo2max": null,
    "bodyBatteryMax": 96,
-   "bodyBatteryMin": 26,
-   "bodyBatteryCharged": 62,
-   "bodyBatteryDrained": 73
+   "bodyBatteryMin": 26
   },
   {
    "date": "2026-09-17",
    "sleepScore": 72,
    "sleepHours": 7.8,
-   "deepSleepHours": 1.1,
-   "remSleepHours": 1.0,
    "hrv": 53,
    "hrvWeeklyAvg": 47,
    "hrvStatus": "NONE",
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 53,
-   "stressAvg": 36,
+   "vo2max": null,
    "bodyBatteryMax": 92,
-   "bodyBatteryMin": 14,
-   "bodyBatteryCharged": 62,
-   "bodyBatteryDrained": 82
+   "bodyBatteryMin": 14
   },
   {
    "date": "2026-09-18",
    "sleepScore": 72,
    "sleepHours": 6.4,
-   "deepSleepHours": 1.0,
-   "remSleepHours": 1.4,
    "hrv": 45,
    "hrvWeeklyAvg": 47,
    "hrvStatus": "NONE",
-   "hrvBaselineLow": null,
-   "hrvBaselineHigh": null,
    "restingHr": 58,
-   "stressAvg": 24,
+   "vo2max": null,
    "bodyBatteryMax": 68,
-   "bodyBatteryMin": 13,
-   "bodyBatteryCharged": 55,
-   "bodyBatteryDrained": 9
+   "bodyBatteryMin": 13
   }
  ]
 }
