@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T11:37:25Z",
+ "generated": "2026-09-19T08:44:34Z",
  "days": 28,
  "recap": {
   "thisWeek": {
@@ -16,10 +16,10 @@
    "km": 91,
    "hardDays": 2
   },
-  "hrvLast": 45,
-  "hrv7dAvg": 48,
-  "sleep7dAvg": 70,
-  "rhr7dAvg": 57
+  "hrvLast": 62,
+  "hrv7dAvg": 50,
+  "sleep7dAvg": 72,
+  "rhr7dAvg": 55
  },
  "powerCurve": {
   "5": {
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24068935233,
-   "date": "2026-08-22",
-   "name": "Granite - TrainerRoad",
-   "sport": "indoor_cycling",
-   "indoor": true,
-   "hours": 1.0,
-   "distanceKm": 28.8,
-   "elevationM": 0,
-   "avgWatts": 151,
-   "normalizedWatts": 173,
-   "maxWatts": 384,
-   "avgHr": 161,
-   "maxHr": 188,
-   "avgCadence": 88,
-   "tss": 48.0,
-   "if": 0.69,
-   "kj": 2188
-  },
   {
    "id": 24086167239,
    "date": "2026-08-23",
@@ -656,6 +637,18 @@
    "vo2max": null,
    "bodyBatteryMax": 68,
    "bodyBatteryMin": 13
+  },
+  {
+   "date": "2026-09-19",
+   "sleepScore": 85,
+   "sleepHours": 8.4,
+   "hrv": 62,
+   "hrvWeeklyAvg": 49,
+   "hrvStatus": "NONE",
+   "restingHr": 53,
+   "vo2max": null,
+   "bodyBatteryMax": 100,
+   "bodyBatteryMin": 25
   }
  ]
 }

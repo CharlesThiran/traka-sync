@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-09-18 11:37 UTC_
+_generated 2026-09-19 08:44 UTC_
 
 ## This morning's recap
 
 **This week so far:** 4 sessions · 4.4h · 119km · 205 TSS · 0 hard days
 **Last week:** 4 sessions · 3.5h · 91km · 134 TSS · 2 hard days
-**Recovery:** HRV 45 (7d avg 48) · sleep 70 · resting HR 57
+**Recovery:** HRV 62 (7d avg 50) · sleep 72 · resting HR 55
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.1 (2026-08-23)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-09-19 | 85 | 8.4 | 62 | 53 | 100 | — |
 | 2026-09-18 | 72 | 6.4 | 45 | 58 | 68 | — |
 | 2026-09-17 | 72 | 7.8 | 53 | 53 | 92 | — |
 | 2026-09-16 | 68 | 7.0 | 48 | 55 | 96 | — |
@@ -69,4 +70,3 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.1 (2026-08-23)
 | 2026-08-25 | Schaarbeek Road Cycling | road_biking | 1.71 | 46.3 | 161 | 145 | 162 | 61.3 | 0.6 | 149 | 85 |
 | 2026-08-25 | Tagliaferro - TrainerRoad | indoor_cycling (in) | 0.58 | — | — | 161 | 176 | 29.0 | 0.7 | 155 | 83 |
 | 2026-08-23 | Schaarbeek Road Cycling | road_biking | 2.71 | 74.8 | 644 | 156 | 195 | 141.4 | 0.72 | 160 | 85 |
-| 2026-08-22 | Granite - TrainerRoad | indoor_cycling (in) | 1.0 | 28.8 | — | 151 | 173 | 48.0 | 0.69 | 161 | 88 |
