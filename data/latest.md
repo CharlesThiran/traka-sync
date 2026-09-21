@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-09-20 09:44 UTC_
+_generated 2026-09-21 09:51 UTC_
 
 ## This morning's recap
 
-**This week so far:** 5 sessions · 8.9h · 245km · 358 TSS · 0 hard days
-**Last week:** 4 sessions · 3.5h · 91km · 134 TSS · 2 hard days
-**Recovery:** HRV 33 (7d avg 51) · sleep 75 · resting HR 55
+**This week so far:** 0 sessions · 0h · 0km · 0 TSS · 0 hard days
+**Last week:** 6 sessions · 9.8h · 264km · 375 TSS · 0 hard days
+**Recovery:** HRV 61 (7d avg 51) · sleep 76 · resting HR 54
 
 ## Power curve — all-time bests
 
@@ -27,7 +27,8 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.0 (2026-08-25)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
-| 2026-09-20 | 62 | 6.4 | 33 | 57 | 48 | — |
+| 2026-09-21 | 89 | 7.7 | 61 | 52 | 100 | — |
+| 2026-09-20 | 62 | 6.4 | 33 | 55 | 64 | — |
 | 2026-09-19 | 85 | 8.4 | 62 | 53 | 100 | — |
 | 2026-09-18 | 72 | 6.4 | 45 | 58 | 68 | — |
 | 2026-09-17 | 72 | 7.8 | 53 | 53 | 92 | — |
@@ -50,6 +51,7 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.0 (2026-08-25)
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-20 | Schaarbeek Road Cycling | road_biking | 0.88 | 19.2 | 122 | 99 | 120 | 17.2 | 0.44 | 129 | 74 |
 | 2026-09-19 | Schaarbeek Road Cycling | road_biking | 4.5 | 125.4 | 1181 | 156 | 209 | 152.6 | 0.77 | 160 | 77 |
 | 2026-09-17 | The Priest - TrainerRoad | indoor_cycling (in) | 1.0 | 27.3 | — | 168 | 206 | 68.0 | 0.82 | 149 | 83 |
 | 2026-09-16 | Schaarbeek Road Cycling | road_biking | 1.76 | 46.0 | 175 | 132 | 150 | 54.1 | 0.56 | 145 | 81 |

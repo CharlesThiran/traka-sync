@@ -1,25 +1,25 @@
 {
- "generated": "2026-09-20T09:44:26Z",
+ "generated": "2026-09-21T09:51:07Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 5,
-   "hours": 8.9,
-   "tss": 358,
-   "km": 245,
+   "sessions": 0,
+   "hours": 0,
+   "tss": 0,
+   "km": 0,
    "hardDays": 0
   },
   "lastWeek": {
-   "sessions": 4,
-   "hours": 3.5,
-   "tss": 134,
-   "km": 91,
-   "hardDays": 2
+   "sessions": 6,
+   "hours": 9.8,
+   "tss": 375,
+   "km": 264,
+   "hardDays": 0
   },
-  "hrvLast": 33,
+  "hrvLast": 61,
   "hrv7dAvg": 51,
-  "sleep7dAvg": 75,
-  "rhr7dAvg": 55
+  "sleep7dAvg": 76,
+  "rhr7dAvg": 54
  },
  "powerCurve": {
   "5": {
@@ -431,6 +431,25 @@
    "tss": 152.6,
    "if": 0.77,
    "kj": 11117
+  },
+  {
+   "id": 24433825544,
+   "date": "2026-09-20",
+   "name": "Schaarbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 0.88,
+   "distanceKm": 19.2,
+   "elevationM": 122,
+   "avgWatts": 99,
+   "normalizedWatts": 120,
+   "maxWatts": 611,
+   "avgHr": 129,
+   "maxHr": 156,
+   "avgCadence": 74,
+   "tss": 17.2,
+   "if": 0.44,
+   "kj": 1628
   }
  ],
  "wellness": [
@@ -645,10 +664,22 @@
    "hrv": 33,
    "hrvWeeklyAvg": 50,
    "hrvStatus": "NONE",
-   "restingHr": 57,
+   "restingHr": 55,
    "vo2max": null,
-   "bodyBatteryMax": 48,
+   "bodyBatteryMax": 64,
    "bodyBatteryMin": 12
+  },
+  {
+   "date": "2026-09-21",
+   "sleepScore": 89,
+   "sleepHours": 7.7,
+   "hrv": 61,
+   "hrvWeeklyAvg": 50,
+   "hrvStatus": "NONE",
+   "restingHr": 52,
+   "vo2max": null,
+   "bodyBatteryMax": 100,
+   "bodyBatteryMin": 45
   }
  ]
 }
