@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-09-21 10:37 UTC_
+_generated 2026-09-22 09:14 UTC_
 
 ## This morning's recap
 
-**This week so far:** 0 sessions · 0h · 0km · 0 TSS · 0 hard days
+**This week so far:** 1 sessions · 1.8h · 45km · 44 TSS · 0 hard days
 **Last week:** 6 sessions · 9.8h · 264km · 375 TSS · 0 hard days
-**Recovery:** HRV 61 (7d avg 51) · sleep 76 · resting HR 54
+**Recovery:** HRV 57 (7d avg 51) · sleep 76 · resting HR 54
 
 ## Power curve — all-time bests
 
@@ -21,12 +21,13 @@ _generated 2026-09-21 10:37 UTC_
 
 ## VO2max
 
-Latest: **55.3** (2026-09-11) · earliest in window 54.0 (2026-08-25)
+Latest: **55.3** (2026-09-11) · earliest in window 53.9 (2026-08-26)
 
 ## Wellness (night ending that morning)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-09-22 | 86 | 7.3 | 57 | 55 | 95 | — |
 | 2026-09-21 | 89 | 7.7 | 61 | 52 | 100 | — |
 | 2026-09-20 | 62 | 6.4 | 33 | 55 | 64 | — |
 | 2026-09-19 | 85 | 8.4 | 62 | 53 | 100 | — |
@@ -45,12 +46,12 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.0 (2026-08-25)
 | 2026-09-01 | — | — | — | 101 | — | 54.4 |
 | 2026-08-31 | — | — | — | 108 | — | 54.4 |
 | 2026-08-26 | — | — | — | 102 | — | 53.9 |
-| 2026-08-25 | — | — | — | 105 | — | 54.0 |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-21 | Schaarbeek Road Cycling | road_biking | 1.76 | 45.2 | 150 | 120 | 136 | 44.5 | 0.5 | — | 80 |
 | 2026-09-20 | Schaarbeek Road Cycling | road_biking | 0.88 | 19.2 | 122 | 99 | 120 | 17.2 | 0.44 | 129 | 74 |
 | 2026-09-19 | Schaarbeek Road Cycling | road_biking | 4.5 | 125.4 | 1181 | 156 | 209 | 152.6 | 0.77 | 160 | 77 |
 | 2026-09-17 | The Priest - TrainerRoad | indoor_cycling (in) | 1.0 | 27.3 | — | 168 | 206 | 68.0 | 0.82 | 149 | 83 |
@@ -70,5 +71,3 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.0 (2026-08-25)
 | 2026-08-31 | Schaarbeek Road Cycling | road_biking | 1.62 | 46.2 | 183 | 144 | 163 | 58.8 | 0.6 | 150 | 82 |
 | 2026-08-29 | Lobuche - TrainerRoad | indoor_cycling (in) | 1.0 | 13.7 | — | 160 | 193 | 59.0 | 0.77 | 156 | 83 |
 | 2026-08-26 | Schaarbeek - Axis | road_biking | 2.45 | 69.0 | 245 | 157 | 189 | 119.3 | 0.7 | 158 | 85 |
-| 2026-08-25 | Schaarbeek Road Cycling | road_biking | 1.71 | 46.3 | 161 | 145 | 162 | 61.3 | 0.6 | 149 | 85 |
-| 2026-08-25 | Tagliaferro - TrainerRoad | indoor_cycling (in) | 0.58 | — | — | 161 | 176 | 29.0 | 0.7 | 155 | 83 |
