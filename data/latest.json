@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-24T09:54:44Z",
+ "generated": "2026-09-25T09:32:59Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 4,
-   "hours": 6.3,
-   "tss": 224,
-   "km": 163,
-   "hardDays": 1
+   "sessions": 5,
+   "hours": 7.3,
+   "tss": 306,
+   "km": 192,
+   "hardDays": 2
   },
   "lastWeek": {
    "sessions": 6,
@@ -16,9 +16,9 @@
    "km": 264,
    "hardDays": 0
   },
-  "hrvLast": 47,
-  "hrv7dAvg": 50,
-  "sleep7dAvg": 77,
+  "hrvLast": 52,
+  "hrv7dAvg": 51,
+  "sleep7dAvg": 76,
   "rhr7dAvg": 55
  },
  "powerCurve": {
@@ -39,16 +39,16 @@
    "date": "2026-09-22"
   },
   "300": {
-   "watts": 229,
-   "date": "2026-09-22"
+   "watts": 252,
+   "date": "2026-09-24"
   },
   "600": {
-   "watts": 209,
-   "date": "2026-09-15"
+   "watts": 223,
+   "date": "2026-09-24"
   },
   "1200": {
-   "watts": 187,
-   "date": "2026-09-22"
+   "watts": 223,
+   "date": "2026-09-24"
   }
  },
  "activities": [
@@ -469,6 +469,25 @@
    "tss": 45.0,
    "if": 0.5,
    "kj": 3933
+  },
+  {
+   "id": 24485889627,
+   "date": "2026-09-24",
+   "name": "Mount Goode -4 - TrainerRoad",
+   "sport": "indoor_cycling",
+   "indoor": true,
+   "hours": 1.0,
+   "distanceKm": 28.4,
+   "elevationM": 0,
+   "avgWatts": 203,
+   "normalizedWatts": 226,
+   "maxWatts": 295,
+   "avgHr": 165,
+   "maxHr": 186,
+   "avgCadence": 87,
+   "tss": 82.0,
+   "if": 0.9,
+   "kj": 3029
   }
  ],
  "wellness": [
@@ -707,10 +726,22 @@
    "hrv": 47,
    "hrvWeeklyAvg": 49,
    "hrvStatus": "NONE",
-   "restingHr": 59,
+   "restingHr": 58,
    "vo2max": null,
    "bodyBatteryMax": 81,
-   "bodyBatteryMin": 30
+   "bodyBatteryMin": 18
+  },
+  {
+   "date": "2026-09-25",
+   "sleepScore": 69,
+   "sleepHours": 7.8,
+   "hrv": 52,
+   "hrvWeeklyAvg": 50,
+   "hrvStatus": "NONE",
+   "restingHr": 57,
+   "vo2max": null,
+   "bodyBatteryMax": 79,
+   "bodyBatteryMin": 18
   }
  ]
 }
