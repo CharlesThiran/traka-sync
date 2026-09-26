@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-09-25 10:08 UTC_
+_generated 2026-09-26 09:17 UTC_
 
 ## This morning's recap
 
 **This week so far:** 5 sessions · 7.3h · 192km · 306 TSS · 2 hard days
 **Last week:** 6 sessions · 9.8h · 264km · 375 TSS · 0 hard days
-**Recovery:** HRV 52 (7d avg 51) · sleep 76 · resting HR 55
+**Recovery:** HRV 59 (7d avg 51) · sleep 76 · resting HR 55
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.4 (2026-08-31)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-09-26 | 80 | 7.9 | 59 | 55 | 100 | — |
 | 2026-09-25 | 69 | 7.8 | 52 | 57 | 79 | — |
 | 2026-09-24 | 78 | 7.9 | 47 | 58 | 81 | — |
 | 2026-09-23 | 66 | 7.3 | 48 | 56 | 73 | — |
@@ -75,4 +76,3 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.4 (2026-08-31)
 | 2026-09-01 | Schaarbeek Road Cycling | road_biking | 2.35 | 72.5 | 232 | 167 | 199 | 127.0 | 0.74 | 163 | 84 |
 | 2026-09-01 | Vranilac - TrainerRoad | indoor_cycling (in) | 0.67 | 19.4 | — | 179 | 209 | 46.0 | 0.83 | 157 | 88 |
 | 2026-08-31 | Schaarbeek Road Cycling | road_biking | 1.62 | 46.2 | 183 | 144 | 163 | 58.8 | 0.6 | 150 | 82 |
-| 2026-08-29 | Lobuche - TrainerRoad | indoor_cycling (in) | 1.0 | 13.7 | — | 160 | 193 | 59.0 | 0.77 | 156 | 83 |

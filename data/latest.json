@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-25T10:08:24Z",
+ "generated": "2026-09-26T09:17:47Z",
  "days": 28,
  "recap": {
   "thisWeek": {
@@ -16,7 +16,7 @@
    "km": 264,
    "hardDays": 0
   },
-  "hrvLast": 52,
+  "hrvLast": 59,
   "hrv7dAvg": 51,
   "sleep7dAvg": 76,
   "rhr7dAvg": 55
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24156465055,
-   "date": "2026-08-29",
-   "name": "Lobuche - TrainerRoad",
-   "sport": "indoor_cycling",
-   "indoor": true,
-   "hours": 1.0,
-   "distanceKm": 13.7,
-   "elevationM": 0,
-   "avgWatts": 160,
-   "normalizedWatts": 193,
-   "maxWatts": 351,
-   "avgHr": 156,
-   "maxHr": 184,
-   "avgCadence": 83,
-   "tss": 59.0,
-   "if": 0.77,
-   "kj": 2326
-  },
   {
    "id": 24187408210,
    "date": "2026-08-31",
@@ -742,6 +723,18 @@
    "vo2max": null,
    "bodyBatteryMax": 79,
    "bodyBatteryMin": 18
+  },
+  {
+   "date": "2026-09-26",
+   "sleepScore": 80,
+   "sleepHours": 7.9,
+   "hrv": 59,
+   "hrvWeeklyAvg": 50,
+   "hrvStatus": "NONE",
+   "restingHr": 55,
+   "vo2max": null,
+   "bodyBatteryMax": 100,
+   "bodyBatteryMin": 28
   }
  ]
 }
