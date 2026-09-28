@@ -1,25 +1,25 @@
 {
- "generated": "2026-09-27T10:30:48Z",
+ "generated": "2026-09-28T10:47:59Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 6,
-   "hours": 10.3,
-   "tss": 493,
-   "km": 281,
-   "hardDays": 2
-  },
-  "lastWeek": {
-   "sessions": 6,
-   "hours": 9.8,
-   "tss": 375,
-   "km": 264,
+   "sessions": 0,
+   "hours": 0,
+   "tss": 0,
+   "km": 0,
    "hardDays": 0
   },
-  "hrvLast": 38,
-  "hrv7dAvg": 52,
-  "sleep7dAvg": 74,
-  "rhr7dAvg": 56
+  "lastWeek": {
+   "sessions": 7,
+   "hours": 11.3,
+   "tss": 518,
+   "km": 307,
+   "hardDays": 2
+  },
+  "hrvLast": 46,
+  "hrv7dAvg": 50,
+  "sleep7dAvg": 69,
+  "rhr7dAvg": 57
  },
  "powerCurve": {
   "5": {
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24187408210,
-   "date": "2026-08-31",
-   "name": "Schaarbeek Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 1.62,
-   "distanceKm": 46.2,
-   "elevationM": 183,
-   "avgWatts": 144,
-   "normalizedWatts": 163,
-   "maxWatts": 621,
-   "avgHr": 150,
-   "maxHr": 178,
-   "avgCadence": 82,
-   "tss": 58.8,
-   "if": 0.6,
-   "kj": 4092
-  },
   {
    "id": 24200633369,
    "date": "2026-09-01",
@@ -488,21 +469,28 @@
    "tss": 186.6,
    "if": 0.79,
    "kj": 8456
+  },
+  {
+   "id": 24520631042,
+   "date": "2026-09-27",
+   "name": "Sillara - TrainerRoad",
+   "sport": "indoor_cycling",
+   "indoor": true,
+   "hours": 0.92,
+   "distanceKm": 25.8,
+   "elevationM": 0,
+   "avgWatts": 131,
+   "normalizedWatts": 131,
+   "maxWatts": 291,
+   "avgHr": 136,
+   "maxHr": 149,
+   "avgCadence": 85,
+   "tss": 25.0,
+   "if": 0.52,
+   "kj": 1782
   }
  ],
  "wellness": [
-  {
-   "date": "2026-08-31",
-   "sleepScore": null,
-   "sleepHours": null,
-   "hrv": null,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": null,
-   "restingHr": 108,
-   "vo2max": 54.4,
-   "bodyBatteryMax": null,
-   "bodyBatteryMin": null
-  },
   {
    "date": "2026-09-01",
    "sleepScore": null,
@@ -765,7 +753,19 @@
    "restingHr": 59,
    "vo2max": null,
    "bodyBatteryMax": 70,
-   "bodyBatteryMin": 42
+   "bodyBatteryMin": 29
+  },
+  {
+   "date": "2026-09-28",
+   "sleepScore": 59,
+   "sleepHours": 6.8,
+   "hrv": 46,
+   "hrvWeeklyAvg": 49,
+   "hrvStatus": "NONE",
+   "restingHr": 56,
+   "vo2max": null,
+   "bodyBatteryMax": 87,
+   "bodyBatteryMin": 29
   }
  ]
 }

@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-09-27 10:30 UTC_
+_generated 2026-09-28 10:47 UTC_
 
 ## This morning's recap
 
-**This week so far:** 6 sessions · 10.3h · 281km · 493 TSS · 2 hard days
-**Last week:** 6 sessions · 9.8h · 264km · 375 TSS · 0 hard days
-**Recovery:** HRV 38 (7d avg 52) · sleep 74 · resting HR 56
+**This week so far:** 0 sessions · 0h · 0km · 0 TSS · 0 hard days
+**Last week:** 7 sessions · 11.3h · 307km · 518 TSS · 2 hard days
+**Recovery:** HRV 46 (7d avg 50) · sleep 69 · resting HR 57
 
 ## Power curve — all-time bests
 
@@ -21,12 +21,13 @@ _generated 2026-09-27 10:30 UTC_
 
 ## VO2max
 
-Latest: **55.3** (2026-09-11) · earliest in window 54.4 (2026-08-31)
+Latest: **55.3** (2026-09-11) · earliest in window 54.4 (2026-09-01)
 
 ## Wellness (night ending that morning)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-09-28 | 59 | 6.8 | 46 | 56 | 87 | — |
 | 2026-09-27 | 48 | 6.8 | 38 | 59 | 70 | — |
 | 2026-09-26 | 80 | 7.9 | 59 | 55 | 100 | — |
 | 2026-09-25 | 69 | 7.8 | 52 | 57 | 79 | — |
@@ -49,12 +50,12 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.4 (2026-08-31)
 | 2026-09-05 | — | — | — | 60 | — | 55.2 |
 | 2026-09-02 | — | — | — | 117 | — | 54.4 |
 | 2026-09-01 | — | — | — | 101 | — | 54.4 |
-| 2026-08-31 | — | — | — | 108 | — | 54.4 |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-09-27 | Sillara - TrainerRoad | indoor_cycling (in) | 0.92 | 25.8 | — | 131 | 131 | 25.0 | 0.52 | 136 | 85 |
 | 2026-09-26 | Schaarbeek Road Cycling | road_biking | 3.01 | 89.1 | 768 | 163 | 213 | 186.6 | 0.79 | 168 | 84 |
 | 2026-09-24 | Mount Goode -4 - TrainerRoad | indoor_cycling (in) | 1.0 | 28.4 | — | 203 | 226 | 82.0 | 0.9 | 165 | 87 |
 | 2026-09-23 | Schaarbeek Road Cycling | road_biking | 1.8 | 45.6 | 155 | 121 | 135 | 45.0 | 0.5 | 146 | 84 |
@@ -77,4 +78,3 @@ Latest: **55.3** (2026-09-11) · earliest in window 54.4 (2026-08-31)
 | 2026-09-02 | Schaarbeek Road Cycling | road_biking | 1.69 | 44.1 | 123 | 125 | 144 | 48.0 | 0.53 | 144 | 79 |
 | 2026-09-01 | Schaarbeek Road Cycling | road_biking | 2.35 | 72.5 | 232 | 167 | 199 | 127.0 | 0.74 | 163 | 84 |
 | 2026-09-01 | Vranilac - TrainerRoad | indoor_cycling (in) | 0.67 | 19.4 | — | 179 | 209 | 46.0 | 0.83 | 157 | 88 |
-| 2026-08-31 | Schaarbeek Road Cycling | road_biking | 1.62 | 46.2 | 183 | 144 | 163 | 58.8 | 0.6 | 150 | 82 |
