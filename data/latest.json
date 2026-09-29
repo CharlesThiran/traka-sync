@@ -1,12 +1,12 @@
 {
- "generated": "2026-09-28T11:37:55Z",
+ "generated": "2026-09-29T10:35:58Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 0,
-   "hours": 0,
-   "tss": 0,
-   "km": 0,
+   "sessions": 1,
+   "hours": 1.7,
+   "tss": 50,
+   "km": 45,
    "hardDays": 0
   },
   "lastWeek": {
@@ -16,10 +16,10 @@
    "km": 307,
    "hardDays": 2
   },
-  "hrvLast": 46,
+  "hrvLast": 59,
   "hrv7dAvg": 50,
-  "sleep7dAvg": 69,
-  "rhr7dAvg": 57
+  "sleep7dAvg": 70,
+  "rhr7dAvg": 56
  },
  "powerCurve": {
   "5": {
@@ -52,44 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24200633369,
-   "date": "2026-09-01",
-   "name": "Schaarbeek Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 2.35,
-   "distanceKm": 72.5,
-   "elevationM": 232,
-   "avgWatts": 167,
-   "normalizedWatts": 199,
-   "maxWatts": 802,
-   "avgHr": 163,
-   "maxHr": 190,
-   "avgCadence": 84,
-   "tss": 127.0,
-   "if": 0.74,
-   "kj": 6774
-  },
-  {
-   "id": 24191842837,
-   "date": "2026-09-01",
-   "name": "Vranilac - TrainerRoad",
-   "sport": "indoor_cycling",
-   "indoor": true,
-   "hours": 0.67,
-   "distanceKm": 19.4,
-   "elevationM": 0,
-   "avgWatts": 179,
-   "normalizedWatts": 209,
-   "maxWatts": 285,
-   "avgHr": 157,
-   "maxHr": 185,
-   "avgCadence": 88,
-   "tss": 46.0,
-   "if": 0.83,
-   "kj": 1795
-  },
   {
    "id": 24214656895,
    "date": "2026-09-02",
@@ -488,21 +450,28 @@
    "tss": 25.0,
    "if": 0.52,
    "kj": 1782
+  },
+  {
+   "id": 24532004634,
+   "date": "2026-09-28",
+   "name": "Schaarbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 1.68,
+   "distanceKm": 45.2,
+   "elevationM": 153,
+   "avgWatts": 131,
+   "normalizedWatts": 148,
+   "maxWatts": 499,
+   "avgHr": 143,
+   "maxHr": 167,
+   "avgCadence": 84,
+   "tss": 50.1,
+   "if": 0.55,
+   "kj": 3933
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-01",
-   "sleepScore": null,
-   "sleepHours": null,
-   "hrv": null,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": null,
-   "restingHr": 101,
-   "vo2max": 54.4,
-   "bodyBatteryMax": null,
-   "bodyBatteryMin": null
-  },
   {
    "date": "2026-09-02",
    "sleepScore": null,
@@ -765,7 +734,19 @@
    "restingHr": 56,
    "vo2max": null,
    "bodyBatteryMax": 87,
-   "bodyBatteryMin": 29
+   "bodyBatteryMin": 26
+  },
+  {
+   "date": "2026-09-29",
+   "sleepScore": 92,
+   "sleepHours": 7.2,
+   "hrv": 59,
+   "hrvWeeklyAvg": 49,
+   "hrvStatus": "NONE",
+   "restingHr": 53,
+   "vo2max": null,
+   "bodyBatteryMax": 100,
+   "bodyBatteryMin": 38
   }
  ]
 }
