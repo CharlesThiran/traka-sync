@@ -1,13 +1,13 @@
 {
- "generated": "2026-09-29T11:18:00Z",
+ "generated": "2026-09-30T10:25:22Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 1,
-   "hours": 1.7,
-   "tss": 50,
-   "km": 45,
-   "hardDays": 0
+   "sessions": 3,
+   "hours": 4.7,
+   "tss": 195,
+   "km": 127,
+   "hardDays": 1
   },
   "lastWeek": {
    "sessions": 7,
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24214656895,
-   "date": "2026-09-02",
-   "name": "Schaarbeek Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 1.69,
-   "distanceKm": 44.1,
-   "elevationM": 123,
-   "avgWatts": 125,
-   "normalizedWatts": 144,
-   "maxWatts": 631,
-   "avgHr": 144,
-   "maxHr": 169,
-   "avgCadence": 79,
-   "tss": 48.0,
-   "if": 0.53,
-   "kj": 3803
-  },
   {
    "id": 24238134056,
    "date": "2026-09-04",
@@ -469,21 +450,47 @@
    "tss": 50.1,
    "if": 0.55,
    "kj": 3933
+  },
+  {
+   "id": 24546284939,
+   "date": "2026-09-29",
+   "name": "Taylor -1 - TrainerRoad",
+   "sport": "indoor_cycling",
+   "indoor": true,
+   "hours": 1.25,
+   "distanceKm": 35.8,
+   "elevationM": 0,
+   "avgWatts": 179,
+   "normalizedWatts": 217,
+   "maxWatts": 401,
+   "avgHr": 153,
+   "maxHr": 174,
+   "avgCadence": 86,
+   "tss": 94.0,
+   "if": 0.87,
+   "kj": 3209
+  },
+  {
+   "id": 24544835295,
+   "date": "2026-09-29",
+   "name": "Schaarbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 1.77,
+   "distanceKm": 45.7,
+   "elevationM": 137,
+   "avgWatts": 131,
+   "normalizedWatts": 145,
+   "maxWatts": 478,
+   "avgHr": 132,
+   "maxHr": 149,
+   "avgCadence": 83,
+   "tss": 51.1,
+   "if": 0.54,
+   "kj": 4121
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-02",
-   "sleepScore": null,
-   "sleepHours": null,
-   "hrv": null,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": null,
-   "restingHr": 117,
-   "vo2max": 54.4,
-   "bodyBatteryMax": null,
-   "bodyBatteryMin": null
-  },
   {
    "date": "2026-09-05",
    "sleepScore": null,
@@ -746,7 +753,7 @@
    "restingHr": 53,
    "vo2max": null,
    "bodyBatteryMax": 100,
-   "bodyBatteryMin": 38
+   "bodyBatteryMin": 25
   }
  ]
 }
