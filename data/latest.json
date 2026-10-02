@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-01T11:33:29Z",
+ "generated": "2026-10-02T10:26:34Z",
  "days": 28,
  "recap": {
   "thisWeek": {
@@ -16,10 +16,10 @@
    "km": 307,
    "hardDays": 2
   },
-  "hrvLast": 74,
-  "hrv7dAvg": 54,
+  "hrvLast": 68,
+  "hrv7dAvg": 57,
   "sleep7dAvg": 72,
-  "rhr7dAvg": 55
+  "rhr7dAvg": 54
  },
  "powerCurve": {
   "5": {
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24238134056,
-   "date": "2026-09-04",
-   "name": "Laurel - TrainerRoad",
-   "sport": "indoor_cycling",
-   "indoor": true,
-   "hours": 0.5,
-   "distanceKm": 14.3,
-   "elevationM": 0,
-   "avgWatts": 162,
-   "normalizedWatts": 196,
-   "maxWatts": 405,
-   "avgHr": 148,
-   "maxHr": 175,
-   "avgCadence": 86,
-   "tss": 30.0,
-   "if": 0.78,
-   "kj": 1222
-  },
   {
    "id": 24247294357,
    "date": "2026-09-05",
@@ -796,7 +777,19 @@
    "restingHr": 52,
    "vo2max": null,
    "bodyBatteryMax": 100,
-   "bodyBatteryMin": 51
+   "bodyBatteryMin": 32
+  },
+  {
+   "date": "2026-10-02",
+   "sleepScore": 66,
+   "sleepHours": 6.6,
+   "hrv": 68,
+   "hrvWeeklyAvg": 56,
+   "hrvStatus": "BALANCED",
+   "restingHr": 49,
+   "vo2max": null,
+   "bodyBatteryMax": 93,
+   "bodyBatteryMin": 43
   }
  ]
 }

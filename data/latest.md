@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-10-01 11:33 UTC_
+_generated 2026-10-02 10:26 UTC_
 
 ## This morning's recap
 
 **This week so far:** 4 sessions · 6.4h · 171km · 235 TSS · 1 hard days
 **Last week:** 7 sessions · 11.3h · 307km · 518 TSS · 2 hard days
-**Recovery:** HRV 74 (7d avg 54) · sleep 72 · resting HR 55
+**Recovery:** HRV 68 (7d avg 57) · sleep 72 · resting HR 54
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.3** (2026-09-11) · earliest in window 55.2 (2026-09-05)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-02 | 66 | 6.6 | 68 | 49 | 93 | — |
 | 2026-10-01 | 85 | 7.3 | 74 | 52 | 100 | — |
 | 2026-09-30 | — | — | — | 54 | 70 | — |
 | 2026-09-29 | 92 | 7.2 | 59 | 53 | 100 | — |
@@ -79,4 +80,3 @@ Latest: **55.3** (2026-09-11) · earliest in window 55.2 (2026-09-05)
 | 2026-09-07 | Schaarbeek Road Cycling | road_biking | 1.81 | 46.1 | 168 | 119 | 140 | 48.7 | 0.52 | 137 | 81 |
 | 2026-09-06 | Schaarbeek Road Cycling | road_biking | 1.96 | 58.9 | 461 | 165 | 212 | 120.7 | 0.79 | 159 | 84 |
 | 2026-09-05 | Aywaille Road Cycling | road_biking | 2.62 | 72.8 | 1290 | 180 | 227 | 185.1 | 0.84 | 163 | 81 |
-| 2026-09-04 | Laurel - TrainerRoad | indoor_cycling (in) | 0.5 | 14.3 | — | 162 | 196 | 30.0 | 0.78 | 148 | 86 |
