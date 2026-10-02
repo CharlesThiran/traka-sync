@@ -1,9 +1,9 @@
 # Garmin — last 28 days
-_generated 2026-10-02 10:26 UTC_
+_generated 2026-10-02 11:02 UTC_
 
 ## This morning's recap
 
-**This week so far:** 4 sessions · 6.4h · 171km · 235 TSS · 1 hard days
+**This week so far:** 5 sessions · 6.7h · 174km · 235 TSS · 2 hard days
 **Last week:** 7 sessions · 11.3h · 307km · 518 TSS · 2 hard days
 **Recovery:** HRV 68 (7d avg 57) · sleep 72 · resting HR 54
 
@@ -13,21 +13,21 @@ _generated 2026-10-02 10:26 UTC_
 |---|---|---|
 | 5 sec | 630 | 2026-09-26 |
 | 15 sec | 382 | 2026-09-26 |
-| 30 sec | 340 | 2026-09-22 |
-| 1 min | 336 | 2026-09-22 |
-| 5 min | 252 | 2026-09-24 |
-| 10 min | 223 | 2026-09-24 |
+| 30 sec | 312 | 2026-10-02 |
+| 1 min | 308 | 2026-10-02 |
+| 5 min | 296 | 2026-10-02 |
+| 10 min | 276 | 2026-10-02 |
 | 20 min | 223 | 2026-09-24 |
 
 ## VO2max
 
-Latest: **55.3** (2026-09-11) · earliest in window 55.2 (2026-09-05)
+Latest: **55.4** (2026-10-02) · earliest in window 55.2 (2026-09-05)
 
 ## Wellness (night ending that morning)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
-| 2026-10-02 | 66 | 6.6 | 68 | 49 | 93 | — |
+| 2026-10-02 | 66 | 6.6 | 68 | 49 | 93 | 55.4 |
 | 2026-10-01 | 85 | 7.3 | 74 | 52 | 100 | — |
 | 2026-09-30 | — | — | — | 54 | 70 | — |
 | 2026-09-29 | 92 | 7.2 | 59 | 53 | 100 | — |
@@ -57,6 +57,7 @@ Latest: **55.3** (2026-09-11) · earliest in window 55.2 (2026-09-05)
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-02 | Mechelen Running | running | 0.3 | 2.8 | 5 | 260 | 275 | — | — | 151 | — |
 | 2026-09-30 | Schaarbeek Road Cycling | road_biking | 1.72 | 44.4 | 141 | 115 | 130 | 39.5 | 0.48 | 141 | 84 |
 | 2026-09-29 | Taylor -1 - TrainerRoad | indoor_cycling (in) | 1.25 | 35.8 | — | 179 | 217 | 94.0 | 0.87 | 153 | 86 |
 | 2026-09-29 | Schaarbeek Road Cycling | road_biking | 1.77 | 45.7 | 137 | 131 | 145 | 51.1 | 0.54 | 132 | 83 |

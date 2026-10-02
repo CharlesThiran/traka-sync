@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-02T10:26:34Z",
+ "generated": "2026-10-02T11:02:12Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 4,
-   "hours": 6.4,
+   "sessions": 5,
+   "hours": 6.7,
    "tss": 235,
-   "km": 171,
-   "hardDays": 1
+   "km": 174,
+   "hardDays": 2
   },
   "lastWeek": {
    "sessions": 7,
@@ -31,20 +31,20 @@
    "date": "2026-09-26"
   },
   "30": {
-   "watts": 340,
-   "date": "2026-09-22"
+   "watts": 312,
+   "date": "2026-10-02"
   },
   "60": {
-   "watts": 336,
-   "date": "2026-09-22"
+   "watts": 308,
+   "date": "2026-10-02"
   },
   "300": {
-   "watts": 252,
-   "date": "2026-09-24"
+   "watts": 296,
+   "date": "2026-10-02"
   },
   "600": {
-   "watts": 223,
-   "date": "2026-09-24"
+   "watts": 276,
+   "date": "2026-10-02"
   },
   "1200": {
    "watts": 223,
@@ -488,6 +488,25 @@
    "tss": 39.5,
    "if": 0.48,
    "kj": 3586
+  },
+  {
+   "id": 24576810817,
+   "date": "2026-10-02",
+   "name": "Mechelen Running",
+   "sport": "running",
+   "indoor": false,
+   "hours": 0.3,
+   "distanceKm": 2.8,
+   "elevationM": 5,
+   "avgWatts": 260,
+   "normalizedWatts": 275,
+   "maxWatts": 345,
+   "avgHr": 151,
+   "maxHr": 177,
+   "avgCadence": null,
+   "tss": null,
+   "if": null,
+   "kj": 883
   }
  ],
  "wellness": [
@@ -787,7 +806,7 @@
    "hrvWeeklyAvg": 56,
    "hrvStatus": "BALANCED",
    "restingHr": 49,
-   "vo2max": null,
+   "vo2max": 55.4,
    "bodyBatteryMax": 93,
    "bodyBatteryMin": 43
   }
