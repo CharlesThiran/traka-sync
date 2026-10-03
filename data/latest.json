@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-02T11:02:12Z",
+ "generated": "2026-10-03T09:48:30Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 5,
-   "hours": 6.7,
-   "tss": 235,
-   "km": 174,
+   "sessions": 6,
+   "hours": 8.4,
+   "tss": 285,
+   "km": 218,
    "hardDays": 2
   },
   "lastWeek": {
@@ -16,9 +16,9 @@
    "km": 307,
    "hardDays": 2
   },
-  "hrvLast": 68,
-  "hrv7dAvg": 57,
-  "sleep7dAvg": 72,
+  "hrvLast": 64,
+  "hrv7dAvg": 58,
+  "sleep7dAvg": 70,
   "rhr7dAvg": 54
  },
  "powerCurve": {
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24247294357,
-   "date": "2026-09-05",
-   "name": "Aywaille Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 2.62,
-   "distanceKm": 72.8,
-   "elevationM": 1290,
-   "avgWatts": 180,
-   "normalizedWatts": 227,
-   "maxWatts": 752,
-   "avgHr": 163,
-   "maxHr": 206,
-   "avgCadence": 81,
-   "tss": 185.1,
-   "if": 0.84,
-   "kj": 8017
-  },
   {
    "id": 24262216735,
    "date": "2026-09-06",
@@ -507,21 +488,28 @@
    "tss": null,
    "if": null,
    "kj": 883
+  },
+  {
+   "id": 24581203073,
+   "date": "2026-10-02",
+   "name": "Schaarbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 1.68,
+   "distanceKm": 44.3,
+   "elevationM": 137,
+   "avgWatts": 132,
+   "normalizedWatts": 149,
+   "maxWatts": 470,
+   "avgHr": 149,
+   "maxHr": 187,
+   "avgCadence": 85,
+   "tss": 50.6,
+   "if": 0.55,
+   "kj": 3916
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-05",
-   "sleepScore": null,
-   "sleepHours": null,
-   "hrv": null,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": null,
-   "restingHr": 60,
-   "vo2max": 55.2,
-   "bodyBatteryMax": null,
-   "bodyBatteryMin": null
-  },
   {
    "date": "2026-09-06",
    "sleepScore": null,
@@ -808,7 +796,19 @@
    "restingHr": 49,
    "vo2max": 55.4,
    "bodyBatteryMax": 93,
-   "bodyBatteryMin": 43
+   "bodyBatteryMin": 18
+  },
+  {
+   "date": "2026-10-03",
+   "sleepScore": 72,
+   "sleepHours": 6.2,
+   "hrv": 64,
+   "hrvWeeklyAvg": 57,
+   "hrvStatus": "BALANCED",
+   "restingHr": 52,
+   "vo2max": null,
+   "bodyBatteryMax": 86,
+   "bodyBatteryMin": 23
   }
  ]
 }
