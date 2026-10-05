@@ -1,10 +1,10 @@
 # Garmin — last 28 days
-_generated 2026-10-04 11:04 UTC_
+_generated 2026-10-05 11:22 UTC_
 
 ## This morning's recap
 
-**This week so far:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Last week:** 7 sessions · 11.3h · 307km · 518 TSS · 2 hard days
+**This week so far:** 0 sessions · 0h · 0km · 0 TSS · 0 hard days
+**Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
 **Recovery:** HRV 64 (7d avg 58) · sleep 70 · resting HR 54
 
 ## Power curve — all-time bests
@@ -21,7 +21,7 @@ _generated 2026-10-04 11:04 UTC_
 
 ## VO2max
 
-Latest: **55.4** (2026-10-02) · earliest in window 55.3 (2026-09-07)
+Latest: **55.4** (2026-10-02) · earliest in window 55.3 (2026-09-11)
 
 ## Wellness (night ending that morning)
 
@@ -50,7 +50,6 @@ Latest: **55.4** (2026-10-02) · earliest in window 55.3 (2026-09-07)
 | 2026-09-13 | 40 | 7.3 | 30 | 61 | 51 | — |
 | 2026-09-12 | — | — | — | 64 | 92 | — |
 | 2026-09-11 | — | — | — | 63 | 63 | 55.3 |
-| 2026-09-07 | — | — | — | 78 | — | 55.3 |
 
 ## Activities
 
@@ -80,4 +79,3 @@ Latest: **55.4** (2026-10-02) · earliest in window 55.3 (2026-09-07)
 | 2026-09-12 | Brussels Road Cycling | road_biking | 0.74 | 28.5 | 232 | 215 | 244 | 59.5 | 0.9 | 191 | 92 |
 | 2026-09-12 | Schaarbeek Road Cycling | road_biking | 0.55 | 13.4 | 124 | 140 | 188 | 26.3 | 0.7 | 166 | 79 |
 | 2026-09-11 | Mechelen Running | running | 0.42 | 3.2 | 7 | 202 | 235 | — | — | 140 | — |
-| 2026-09-07 | Schaarbeek Road Cycling | road_biking | 1.81 | 46.1 | 168 | 119 | 140 | 48.7 | 0.52 | 137 | 81 |
