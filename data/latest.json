@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-05T12:12:34Z",
+ "generated": "2026-10-06T11:11:41Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 0,
-   "hours": 0,
+   "sessions": 1,
+   "hours": 0.4,
    "tss": 0,
-   "km": 0,
-   "hardDays": 0
+   "km": 4,
+   "hardDays": 1
   },
   "lastWeek": {
    "sessions": 8,
@@ -16,10 +16,10 @@
    "km": 357,
    "hardDays": 2
   },
-  "hrvLast": 64,
-  "hrv7dAvg": 58,
-  "sleep7dAvg": 70,
-  "rhr7dAvg": 54
+  "hrvLast": 72,
+  "hrv7dAvg": 60,
+  "sleep7dAvg": 68,
+  "rhr7dAvg": 53
  },
  "powerCurve": {
   "5": {
@@ -27,28 +27,28 @@
    "date": "2026-10-03"
   },
   "15": {
-   "watts": 382,
-   "date": "2026-09-26"
+   "watts": 349,
+   "date": "2026-10-06"
   },
   "30": {
-   "watts": 312,
-   "date": "2026-10-02"
+   "watts": 347,
+   "date": "2026-10-06"
   },
   "60": {
-   "watts": 308,
-   "date": "2026-10-02"
+   "watts": 339,
+   "date": "2026-10-06"
   },
   "300": {
-   "watts": 296,
-   "date": "2026-10-02"
+   "watts": 307,
+   "date": "2026-10-06"
   },
   "600": {
-   "watts": 276,
-   "date": "2026-10-02"
+   "watts": 292,
+   "date": "2026-10-06"
   },
   "1200": {
-   "watts": 191,
-   "date": "2026-09-29"
+   "watts": 286,
+   "date": "2026-10-06"
   }
  },
  "activities": [
@@ -507,6 +507,25 @@
    "tss": 261.2,
    "if": 0.78,
    "kj": 12933
+  },
+  {
+   "id": 24625033963,
+   "date": "2026-10-06",
+   "name": "Mechelen Running",
+   "sport": "running",
+   "indoor": false,
+   "hours": 0.37,
+   "distanceKm": 3.8,
+   "elevationM": 8,
+   "avgWatts": 284,
+   "normalizedWatts": 286,
+   "maxWatts": 355,
+   "avgHr": 164,
+   "maxHr": 178,
+   "avgCadence": null,
+   "tss": null,
+   "if": null,
+   "kj": 1213
   }
  ],
  "wellness": [
@@ -784,7 +803,43 @@
    "restingHr": 52,
    "vo2max": null,
    "bodyBatteryMax": 86,
-   "bodyBatteryMin": 19
+   "bodyBatteryMin": 5
+  },
+  {
+   "date": "2026-10-04",
+   "sleepScore": 23,
+   "sleepHours": 3.6,
+   "hrv": 21,
+   "hrvWeeklyAvg": 51,
+   "hrvStatus": "BALANCED",
+   "restingHr": 61,
+   "vo2max": null,
+   "bodyBatteryMax": 5,
+   "bodyBatteryMin": 5
+  },
+  {
+   "date": "2026-10-05",
+   "sleepScore": 72,
+   "sleepHours": 6.7,
+   "hrv": 61,
+   "hrvWeeklyAvg": 54,
+   "hrvStatus": "BALANCED",
+   "restingHr": 54,
+   "vo2max": null,
+   "bodyBatteryMax": 66,
+   "bodyBatteryMin": 5
+  },
+  {
+   "date": "2026-10-06",
+   "sleepScore": 87,
+   "sleepHours": 7.8,
+   "hrv": 72,
+   "hrvWeeklyAvg": 56,
+   "hrvStatus": "BALANCED",
+   "restingHr": 49,
+   "vo2max": 55.3,
+   "bodyBatteryMax": 99,
+   "bodyBatteryMin": 32
   }
  ]
 }

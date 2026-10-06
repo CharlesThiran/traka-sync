@@ -1,32 +1,35 @@
 # Garmin — last 28 days
-_generated 2026-10-05 12:12 UTC_
+_generated 2026-10-06 11:11 UTC_
 
 ## This morning's recap
 
-**This week so far:** 0 sessions · 0h · 0km · 0 TSS · 0 hard days
+**This week so far:** 1 sessions · 0.4h · 4km · 0 TSS · 1 hard days
 **Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Recovery:** HRV 64 (7d avg 58) · sleep 70 · resting HR 54
+**Recovery:** HRV 72 (7d avg 60) · sleep 68 · resting HR 53
 
 ## Power curve — all-time bests
 
 | Duration | Watts | Set |
 |---|---|---|
 | 5 sec | 663 | 2026-10-03 |
-| 15 sec | 382 | 2026-09-26 |
-| 30 sec | 312 | 2026-10-02 |
-| 1 min | 308 | 2026-10-02 |
-| 5 min | 296 | 2026-10-02 |
-| 10 min | 276 | 2026-10-02 |
-| 20 min | 191 | 2026-09-29 |
+| 15 sec | 349 | 2026-10-06 |
+| 30 sec | 347 | 2026-10-06 |
+| 1 min | 339 | 2026-10-06 |
+| 5 min | 307 | 2026-10-06 |
+| 10 min | 292 | 2026-10-06 |
+| 20 min | 286 | 2026-10-06 |
 
 ## VO2max
 
-Latest: **55.4** (2026-10-02) · earliest in window 55.3 (2026-09-11)
+Latest: **55.3** (2026-10-06) · earliest in window 55.3 (2026-09-11)
 
 ## Wellness (night ending that morning)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-06 | 87 | 7.8 | 72 | 49 | 99 | 55.3 |
+| 2026-10-05 | 72 | 6.7 | 61 | 54 | 66 | — |
+| 2026-10-04 | 23 | 3.6 | 21 | 61 | 5 | — |
 | 2026-10-03 | 72 | 6.2 | 64 | 52 | 86 | — |
 | 2026-10-02 | 66 | 6.6 | 68 | 49 | 93 | 55.4 |
 | 2026-10-01 | 85 | 7.3 | 74 | 52 | 100 | — |
@@ -55,6 +58,7 @@ Latest: **55.4** (2026-10-02) · earliest in window 55.3 (2026-09-11)
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-06 | Mechelen Running | running | 0.37 | 3.8 | 8 | 284 | 286 | — | — | 164 | — |
 | 2026-10-03 | Brussels Road Cycling | road_biking | 0.32 | 8.1 | 23 | 114 | 141 | 8.6 | 0.52 | 146 | 77 |
 | 2026-10-03 | Schaarbeek Road Cycling | road_biking | 4.49 | 130.9 | 944 | 168 | 212 | 261.2 | 0.78 | 162 | 87 |
 | 2026-10-02 | Mechelen Running | running | 0.3 | 2.8 | 5 | 260 | 275 | — | — | 151 | — |
