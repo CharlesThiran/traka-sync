@@ -1,5 +1,5 @@
 # Garmin — last 28 days
-_generated 2026-10-07 10:59 UTC_
+_generated 2026-10-07 11:42 UTC_
 
 ## This morning's recap
 
