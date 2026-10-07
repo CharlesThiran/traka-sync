@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-10-06 11:57 UTC_
+_generated 2026-10-07 10:59 UTC_
 
 ## This morning's recap
 
 **This week so far:** 1 sessions · 0.4h · 4km · 0 TSS · 1 hard days
 **Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Recovery:** HRV 72 (7d avg 60) · sleep 68 · resting HR 53
+**Recovery:** HRV 70 (7d avg 61) · sleep 67 · resting HR 52
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.3** (2026-10-06) · earliest in window 55.3 (2026-09-11)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-07 | 61 | 5.7 | 70 | 50 | 78 | — |
 | 2026-10-06 | 87 | 7.8 | 72 | 49 | 99 | 55.3 |
 | 2026-10-05 | 72 | 6.7 | 61 | 54 | 66 | — |
 | 2026-10-04 | 23 | 3.6 | 21 | 61 | 5 | — |

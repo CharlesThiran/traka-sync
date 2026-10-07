@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-06T11:57:59Z",
+ "generated": "2026-10-07T10:59:49Z",
  "days": 28,
  "recap": {
   "thisWeek": {
@@ -16,10 +16,10 @@
    "km": 357,
    "hardDays": 2
   },
-  "hrvLast": 72,
-  "hrv7dAvg": 60,
-  "sleep7dAvg": 68,
-  "rhr7dAvg": 53
+  "hrvLast": 70,
+  "hrv7dAvg": 61,
+  "sleep7dAvg": 67,
+  "rhr7dAvg": 52
  },
  "powerCurve": {
   "5": {
@@ -839,7 +839,19 @@
    "restingHr": 49,
    "vo2max": 55.3,
    "bodyBatteryMax": 99,
-   "bodyBatteryMin": 32
+   "bodyBatteryMin": 19
+  },
+  {
+   "date": "2026-10-07",
+   "sleepScore": 61,
+   "sleepHours": 5.7,
+   "hrv": 70,
+   "hrvWeeklyAvg": 57,
+   "hrvStatus": "BALANCED",
+   "restingHr": 50,
+   "vo2max": null,
+   "bodyBatteryMax": 78,
+   "bodyBatteryMin": 25
   }
  ]
 }
