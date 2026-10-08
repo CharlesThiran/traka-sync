@@ -1,13 +1,13 @@
 {
- "generated": "2026-10-07T11:42:33Z",
+ "generated": "2026-10-08T11:17:02Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 1,
-   "hours": 0.4,
+   "sessions": 3,
+   "hours": 0.6,
    "tss": 0,
-   "km": 4,
-   "hardDays": 1
+   "km": 6,
+   "hardDays": 3
   },
   "lastWeek": {
    "sessions": 8,
@@ -16,10 +16,10 @@
    "km": 357,
    "hardDays": 2
   },
-  "hrvLast": 70,
-  "hrv7dAvg": 61,
-  "sleep7dAvg": 67,
-  "rhr7dAvg": 52
+  "hrvLast": 55,
+  "hrv7dAvg": 59,
+  "sleep7dAvg": 62,
+  "rhr7dAvg": 53
  },
  "powerCurve": {
   "5": {
@@ -27,16 +27,16 @@
    "date": "2026-10-03"
   },
   "15": {
-   "watts": 349,
-   "date": "2026-10-06"
+   "watts": 374,
+   "date": "2026-10-08"
   },
   "30": {
-   "watts": 347,
-   "date": "2026-10-06"
+   "watts": 362,
+   "date": "2026-10-08"
   },
   "60": {
-   "watts": 339,
-   "date": "2026-10-06"
+   "watts": 341,
+   "date": "2026-10-08"
   },
   "300": {
    "watts": 307,
@@ -526,6 +526,44 @@
    "tss": null,
    "if": null,
    "kj": 1213
+  },
+  {
+   "id": 24647766284,
+   "date": "2026-10-08",
+   "name": "Mechelen Running",
+   "sport": "running",
+   "indoor": false,
+   "hours": 0.15,
+   "distanceKm": 1.5,
+   "elevationM": 7,
+   "avgWatts": 299,
+   "normalizedWatts": 302,
+   "maxWatts": 400,
+   "avgHr": 168,
+   "maxHr": 180,
+   "avgCadence": null,
+   "tss": null,
+   "if": null,
+   "kj": 473
+  },
+  {
+   "id": 24647488217,
+   "date": "2026-10-08",
+   "name": "Schaarbeek Running",
+   "sport": "running",
+   "indoor": false,
+   "hours": 0.09,
+   "distanceKm": 0.9,
+   "elevationM": 15,
+   "avgWatts": 289,
+   "normalizedWatts": 299,
+   "maxWatts": 492,
+   "avgHr": 157,
+   "maxHr": 172,
+   "avgCadence": null,
+   "tss": null,
+   "if": null,
+   "kj": 264
   }
  ],
  "wellness": [
@@ -851,7 +889,19 @@
    "restingHr": 50,
    "vo2max": null,
    "bodyBatteryMax": 78,
-   "bodyBatteryMin": 25
+   "bodyBatteryMin": 9
+  },
+  {
+   "date": "2026-10-08",
+   "sleepScore": 54,
+   "sleepHours": 5.1,
+   "hrv": 55,
+   "hrvWeeklyAvg": 55,
+   "hrvStatus": "BALANCED",
+   "restingHr": 55,
+   "vo2max": 55.1,
+   "bodyBatteryMax": 63,
+   "bodyBatteryMin": 23
   }
  ]
 }
