@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-10-08 11:57 UTC_
+_generated 2026-10-09 11:15 UTC_
 
 ## This morning's recap
 
-**This week so far:** 3 sessions · 0.6h · 6km · 0 TSS · 3 hard days
+**This week so far:** 5 sessions · 1.3h · 13km · 0 TSS · 5 hard days
 **Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Recovery:** HRV 55 (7d avg 59) · sleep 62 · resting HR 53
+**Recovery:** HRV 50 (7d avg 56) · sleep 64 · resting HR 53
 
 ## Power curve — all-time bests
 
@@ -15,18 +15,19 @@ _generated 2026-10-08 11:57 UTC_
 | 15 sec | 374 | 2026-10-08 |
 | 30 sec | 362 | 2026-10-08 |
 | 1 min | 341 | 2026-10-08 |
-| 5 min | 307 | 2026-10-06 |
-| 10 min | 292 | 2026-10-06 |
+| 5 min | 317 | 2026-10-09 |
+| 10 min | 308 | 2026-10-09 |
 | 20 min | 286 | 2026-10-06 |
 
 ## VO2max
 
-Latest: **55.1** (2026-10-08) · earliest in window 55.3 (2026-09-11)
+Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 
 ## Wellness (night ending that morning)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-09 | 77 | 6.5 | 50 | 51 | 78 | 55.0 |
 | 2026-10-08 | 54 | 5.1 | 55 | 55 | 63 | 55.1 |
 | 2026-10-07 | 61 | 5.7 | 70 | 50 | 78 | — |
 | 2026-10-06 | 87 | 7.8 | 72 | 49 | 99 | 55.3 |
@@ -54,12 +55,13 @@ Latest: **55.1** (2026-10-08) · earliest in window 55.3 (2026-09-11)
 | 2026-09-14 | 83 | 7.4 | 59 | 53 | 100 | — |
 | 2026-09-13 | 40 | 7.3 | 30 | 61 | 51 | — |
 | 2026-09-12 | — | — | — | 64 | 92 | — |
-| 2026-09-11 | — | — | — | 63 | 63 | 55.3 |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-09 | Mechelen Running | running | 0.51 | 5.0 | 16 | 279 | 292 | — | — | 157 | — |
+| 2026-10-08 | Mechelen Running | running | 0.14 | 1.5 | 8 | 294 | 298 | — | — | 140 | — |
 | 2026-10-08 | Mechelen Running | running | 0.15 | 1.5 | 7 | 299 | 302 | — | — | 168 | — |
 | 2026-10-08 | Schaarbeek Running | running | 0.09 | 0.9 | 15 | 289 | 299 | — | — | 157 | — |
 | 2026-10-06 | Mechelen Running | running | 0.37 | 3.8 | 8 | 284 | 286 | — | — | 164 | — |
@@ -86,4 +88,3 @@ Latest: **55.1** (2026-10-08) · earliest in window 55.3 (2026-09-11)
 | 2026-09-15 | Schaarbeek Road Cycling | road_biking | 0.79 | 22.6 | 58 | 161 | 220 | 52.2 | 0.82 | 162 | 80 |
 | 2026-09-12 | Brussels Road Cycling | road_biking | 0.74 | 28.5 | 232 | 215 | 244 | 59.5 | 0.9 | 191 | 92 |
 | 2026-09-12 | Schaarbeek Road Cycling | road_biking | 0.55 | 13.4 | 124 | 140 | 188 | 26.3 | 0.7 | 166 | 79 |
-| 2026-09-11 | Mechelen Running | running | 0.42 | 3.2 | 7 | 202 | 235 | — | — | 140 | — |
