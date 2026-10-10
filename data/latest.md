@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-10-09 11:49 UTC_
+_generated 2026-10-10 10:32 UTC_
 
 ## This morning's recap
 
-**This week so far:** 5 sessions · 1.3h · 13km · 0 TSS · 5 hard days
+**This week so far:** 6 sessions · 2.2h · 41km · 77 TSS · 6 hard days
 **Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Recovery:** HRV 50 (7d avg 56) · sleep 64 · resting HR 53
+**Recovery:** HRV 67 (7d avg 57) · sleep 65 · resting HR 53
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-10 | 82 | 8.2 | 67 | 52 | 99 | — |
 | 2026-10-09 | 77 | 6.5 | 50 | 51 | 78 | 55.0 |
 | 2026-10-08 | 54 | 5.1 | 55 | 55 | 63 | 55.1 |
 | 2026-10-07 | 61 | 5.7 | 70 | 50 | 78 | — |
@@ -54,12 +55,12 @@ Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 | 2026-09-15 | 82 | 7.5 | 54 | 53 | 100 | — |
 | 2026-09-14 | 83 | 7.4 | 59 | 53 | 100 | — |
 | 2026-09-13 | 40 | 7.3 | 30 | 61 | 51 | — |
-| 2026-09-12 | — | — | — | 64 | 92 | — |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-10 | Corcoran -7 - TrainerRoad | indoor_cycling (in) | 0.92 | 28.0 | — | 196 | 228 | 77.0 | 0.91 | 165 | 93 |
 | 2026-10-09 | Mechelen Running | running | 0.51 | 5.0 | 16 | 279 | 292 | — | — | 157 | — |
 | 2026-10-08 | Mechelen Running | running | 0.14 | 1.5 | 8 | 294 | 298 | — | — | 140 | — |
 | 2026-10-08 | Mechelen Running | running | 0.15 | 1.5 | 7 | 299 | 302 | — | — | 168 | — |
@@ -86,5 +87,3 @@ Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 | 2026-09-16 | Schaarbeek Road Cycling | road_biking | 1.76 | 46.0 | 175 | 132 | 150 | 54.1 | 0.56 | 145 | 81 |
 | 2026-09-15 | Mechelen Road Cycling | road_biking | 0.85 | 23.4 | 101 | 145 | 163 | 31.0 | 0.61 | 145 | 84 |
 | 2026-09-15 | Schaarbeek Road Cycling | road_biking | 0.79 | 22.6 | 58 | 161 | 220 | 52.2 | 0.82 | 162 | 80 |
-| 2026-09-12 | Brussels Road Cycling | road_biking | 0.74 | 28.5 | 232 | 215 | 244 | 59.5 | 0.9 | 191 | 92 |
-| 2026-09-12 | Schaarbeek Road Cycling | road_biking | 0.55 | 13.4 | 124 | 140 | 188 | 26.3 | 0.7 | 166 | 79 |
