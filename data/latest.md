@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-10-10 11:06 UTC_
+_generated 2026-10-11 10:45 UTC_
 
 ## This morning's recap
 
-**This week so far:** 6 sessions · 2.2h · 41km · 77 TSS · 6 hard days
+**This week so far:** 7 sessions · 3.5h · 80km · 122 TSS · 6 hard days
 **Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Recovery:** HRV 67 (7d avg 57) · sleep 65 · resting HR 53
+**Recovery:** HRV 55 (7d avg 61) · sleep 72 · resting HR 52
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-11 | 72 | 6.7 | 55 | 50 | 81 | — |
 | 2026-10-10 | 82 | 8.2 | 67 | 52 | 99 | — |
 | 2026-10-09 | 77 | 6.5 | 50 | 51 | 78 | 55.0 |
 | 2026-10-08 | 54 | 5.1 | 55 | 55 | 63 | 55.1 |
@@ -54,12 +55,12 @@ Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 | 2026-09-16 | 68 | 7.0 | 48 | 55 | 96 | — |
 | 2026-09-15 | 82 | 7.5 | 54 | 53 | 100 | — |
 | 2026-09-14 | 83 | 7.4 | 59 | 53 | 100 | — |
-| 2026-09-13 | 40 | 7.3 | 30 | 61 | 51 | — |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-11 | Unzendake - TrainerRoad | indoor_cycling (in) | 1.33 | 39.2 | — | 144 | 145 | 45.0 | 0.58 | 141 | 90 |
 | 2026-10-10 | Corcoran -7 - TrainerRoad | indoor_cycling (in) | 0.92 | 28.0 | — | 196 | 228 | 77.0 | 0.91 | 165 | 93 |
 | 2026-10-09 | Mechelen Running | running | 0.51 | 5.0 | 16 | 279 | 292 | — | — | 157 | — |
 | 2026-10-08 | Mechelen Running | running | 0.14 | 1.5 | 8 | 294 | 298 | — | — | 140 | — |

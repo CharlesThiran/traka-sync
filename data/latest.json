@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-10T11:06:33Z",
+ "generated": "2026-10-11T10:45:23Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 6,
-   "hours": 2.2,
-   "tss": 77,
-   "km": 41,
+   "sessions": 7,
+   "hours": 3.5,
+   "tss": 122,
+   "km": 80,
    "hardDays": 6
   },
   "lastWeek": {
@@ -16,10 +16,10 @@
    "km": 357,
    "hardDays": 2
   },
-  "hrvLast": 67,
-  "hrv7dAvg": 57,
-  "sleep7dAvg": 65,
-  "rhr7dAvg": 53
+  "hrvLast": 55,
+  "hrv7dAvg": 61,
+  "sleep7dAvg": 72,
+  "rhr7dAvg": 52
  },
  "powerCurve": {
   "5": {
@@ -564,21 +564,28 @@
    "tss": 77.0,
    "if": 0.91,
    "kj": 2674
+  },
+  {
+   "id": 24683644666,
+   "date": "2026-10-11",
+   "name": "Unzendake - TrainerRoad",
+   "sport": "indoor_cycling",
+   "indoor": true,
+   "hours": 1.33,
+   "distanceKm": 39.2,
+   "elevationM": 0,
+   "avgWatts": 144,
+   "normalizedWatts": 145,
+   "maxWatts": 279,
+   "avgHr": 141,
+   "maxHr": 161,
+   "avgCadence": 90,
+   "tss": 45.0,
+   "if": 0.58,
+   "kj": 2883
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-13",
-   "sleepScore": 40,
-   "sleepHours": 7.3,
-   "hrv": 30,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": "NONE",
-   "restingHr": 61,
-   "vo2max": null,
-   "bodyBatteryMax": 51,
-   "bodyBatteryMin": 21
-  },
   {
    "date": "2026-09-14",
    "sleepScore": 83,
@@ -902,6 +909,18 @@
    "vo2max": null,
    "bodyBatteryMax": 99,
    "bodyBatteryMin": 14
+  },
+  {
+   "date": "2026-10-11",
+   "sleepScore": 72,
+   "sleepHours": 6.7,
+   "hrv": 55,
+   "hrvWeeklyAvg": 61,
+   "hrvStatus": "BALANCED",
+   "restingHr": 50,
+   "vo2max": null,
+   "bodyBatteryMax": 81,
+   "bodyBatteryMin": 19
   }
  ]
 }
