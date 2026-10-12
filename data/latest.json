@@ -1,29 +1,29 @@
 {
- "generated": "2026-10-11T11:21:38Z",
+ "generated": "2026-10-12T11:51:15Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 7,
-   "hours": 3.5,
-   "tss": 122,
-   "km": 80,
-   "hardDays": 6
+   "sessions": 1,
+   "hours": 0.3,
+   "tss": 0,
+   "km": 3,
+   "hardDays": 1
   },
   "lastWeek": {
    "sessions": 8,
-   "hours": 13.2,
-   "tss": 555,
-   "km": 357,
-   "hardDays": 2
+   "hours": 3.9,
+   "tss": 158,
+   "km": 92,
+   "hardDays": 7
   },
-  "hrvLast": 55,
+  "hrvLast": 56,
   "hrv7dAvg": 61,
-  "sleep7dAvg": 72,
-  "rhr7dAvg": 52
+  "sleep7dAvg": 74,
+  "rhr7dAvg": 51
  },
  "powerCurve": {
   "5": {
-   "watts": 663,
+   "watts": 558,
    "date": "2026-10-03"
   },
   "15": {
@@ -566,6 +566,25 @@
    "kj": 2674
   },
   {
+   "id": 24689537278,
+   "date": "2026-10-11",
+   "name": "Peleaga - TrainerRoad",
+   "sport": "indoor_cycling",
+   "indoor": true,
+   "hours": 0.4,
+   "distanceKm": 12.1,
+   "elevationM": 0,
+   "avgWatts": 198,
+   "normalizedWatts": 236,
+   "maxWatts": 390,
+   "avgHr": 157,
+   "maxHr": 188,
+   "avgCadence": 0,
+   "tss": 36.0,
+   "if": 0.94,
+   "kj": 1176
+  },
+  {
    "id": 24683644666,
    "date": "2026-10-11",
    "name": "Unzendake - TrainerRoad",
@@ -583,21 +602,28 @@
    "tss": 45.0,
    "if": 0.58,
    "kj": 2883
+  },
+  {
+   "id": 24694951248,
+   "date": "2026-10-12",
+   "name": "Mechelen Running",
+   "sport": "running",
+   "indoor": false,
+   "hours": 0.31,
+   "distanceKm": 3.0,
+   "elevationM": 11,
+   "avgWatts": 281,
+   "normalizedWatts": 285,
+   "maxWatts": 340,
+   "avgHr": 153,
+   "maxHr": 172,
+   "avgCadence": null,
+   "tss": null,
+   "if": null,
+   "kj": 954
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-14",
-   "sleepScore": 83,
-   "sleepHours": 7.4,
-   "hrv": 59,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": "NONE",
-   "restingHr": 53,
-   "vo2max": null,
-   "bodyBatteryMax": 100,
-   "bodyBatteryMin": 38
-  },
   {
    "date": "2026-09-15",
    "sleepScore": 82,
@@ -921,6 +947,18 @@
    "vo2max": null,
    "bodyBatteryMax": 81,
    "bodyBatteryMin": 19
+  },
+  {
+   "date": "2026-10-12",
+   "sleepScore": 83,
+   "sleepHours": 7.0,
+   "hrv": 56,
+   "hrvWeeklyAvg": 60,
+   "hrvStatus": "BALANCED",
+   "restingHr": 53,
+   "vo2max": 55.0,
+   "bodyBatteryMax": 96,
+   "bodyBatteryMin": 31
   }
  ]
 }

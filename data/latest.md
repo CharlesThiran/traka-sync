@@ -1,17 +1,17 @@
 # Garmin — last 28 days
-_generated 2026-10-11 11:21 UTC_
+_generated 2026-10-12 11:51 UTC_
 
 ## This morning's recap
 
-**This week so far:** 7 sessions · 3.5h · 80km · 122 TSS · 6 hard days
-**Last week:** 8 sessions · 13.2h · 357km · 555 TSS · 2 hard days
-**Recovery:** HRV 55 (7d avg 61) · sleep 72 · resting HR 52
+**This week so far:** 1 sessions · 0.3h · 3km · 0 TSS · 1 hard days
+**Last week:** 8 sessions · 3.9h · 92km · 158 TSS · 7 hard days
+**Recovery:** HRV 56 (7d avg 61) · sleep 74 · resting HR 51
 
 ## Power curve — all-time bests
 
 | Duration | Watts | Set |
 |---|---|---|
-| 5 sec | 663 | 2026-10-03 |
+| 5 sec | 558 | 2026-10-03 |
 | 15 sec | 374 | 2026-10-08 |
 | 30 sec | 362 | 2026-10-08 |
 | 1 min | 341 | 2026-10-08 |
@@ -21,12 +21,13 @@ _generated 2026-10-11 11:21 UTC_
 
 ## VO2max
 
-Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
+Latest: **55.0** (2026-10-12) · earliest in window 55.4 (2026-10-02)
 
 ## Wellness (night ending that morning)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-12 | 83 | 7.0 | 56 | 53 | 96 | 55.0 |
 | 2026-10-11 | 72 | 6.7 | 55 | 50 | 81 | — |
 | 2026-10-10 | 82 | 8.2 | 67 | 52 | 99 | — |
 | 2026-10-09 | 77 | 6.5 | 50 | 51 | 78 | 55.0 |
@@ -54,12 +55,13 @@ Latest: **55.0** (2026-10-09) · earliest in window 55.4 (2026-10-02)
 | 2026-09-17 | 72 | 7.8 | 53 | 53 | 92 | — |
 | 2026-09-16 | 68 | 7.0 | 48 | 55 | 96 | — |
 | 2026-09-15 | 82 | 7.5 | 54 | 53 | 100 | — |
-| 2026-09-14 | 83 | 7.4 | 59 | 53 | 100 | — |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-12 | Mechelen Running | running | 0.31 | 3.0 | 11 | 281 | 285 | — | — | 153 | — |
+| 2026-10-11 | Peleaga - TrainerRoad | indoor_cycling (in) | 0.4 | 12.1 | — | 198 | 236 | 36.0 | 0.94 | 157 | — |
 | 2026-10-11 | Unzendake - TrainerRoad | indoor_cycling (in) | 1.33 | 39.2 | — | 144 | 145 | 45.0 | 0.58 | 141 | 90 |
 | 2026-10-10 | Corcoran -7 - TrainerRoad | indoor_cycling (in) | 0.92 | 28.0 | — | 196 | 228 | 77.0 | 0.91 | 165 | 93 |
 | 2026-10-09 | Mechelen Running | running | 0.51 | 5.0 | 16 | 279 | 292 | — | — | 157 | — |
