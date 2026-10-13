@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-12T11:51:15Z",
+ "generated": "2026-10-13T11:39:51Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 1,
-   "hours": 0.3,
-   "tss": 0,
-   "km": 3,
+   "sessions": 2,
+   "hours": 2.1,
+   "tss": 56,
+   "km": 49,
    "hardDays": 1
   },
   "lastWeek": {
@@ -16,15 +16,15 @@
    "km": 92,
    "hardDays": 7
   },
-  "hrvLast": 56,
-  "hrv7dAvg": 61,
+  "hrvLast": 66,
+  "hrv7dAvg": 60,
   "sleep7dAvg": 74,
   "rhr7dAvg": 51
  },
  "powerCurve": {
   "5": {
-   "watts": 558,
-   "date": "2026-10-03"
+   "watts": 448,
+   "date": "2026-10-10"
   },
   "15": {
    "watts": 374,
@@ -52,44 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24373230930,
-   "date": "2026-09-15",
-   "name": "Mechelen Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 0.85,
-   "distanceKm": 23.4,
-   "elevationM": 101,
-   "avgWatts": 145,
-   "normalizedWatts": 163,
-   "maxWatts": 645,
-   "avgHr": 145,
-   "maxHr": 166,
-   "avgCadence": 84,
-   "tss": 31.0,
-   "if": 0.61,
-   "kj": 2176
-  },
-  {
-   "id": 24366147455,
-   "date": "2026-09-15",
-   "name": "Schaarbeek Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 0.79,
-   "distanceKm": 22.6,
-   "elevationM": 58,
-   "avgWatts": 161,
-   "normalizedWatts": 220,
-   "maxWatts": 829,
-   "avgHr": 162,
-   "maxHr": 194,
-   "avgCadence": 80,
-   "tss": 52.2,
-   "if": 0.82,
-   "kj": 2205
-  },
   {
    "id": 24386573991,
    "date": "2026-09-16",
@@ -621,21 +583,28 @@
    "tss": null,
    "if": null,
    "kj": 954
+  },
+  {
+   "id": 24700216536,
+   "date": "2026-10-12",
+   "name": "Schaarbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 1.82,
+   "distanceKm": 46.3,
+   "elevationM": 167,
+   "avgWatts": 132,
+   "normalizedWatts": 150,
+   "maxWatts": 592,
+   "avgHr": 147,
+   "maxHr": 171,
+   "avgCadence": 85,
+   "tss": 56.0,
+   "if": 0.56,
+   "kj": 4259
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-15",
-   "sleepScore": 82,
-   "sleepHours": 7.5,
-   "hrv": 54,
-   "hrvWeeklyAvg": null,
-   "hrvStatus": "NONE",
-   "restingHr": 53,
-   "vo2max": null,
-   "bodyBatteryMax": 100,
-   "bodyBatteryMin": 27
-  },
   {
    "date": "2026-09-16",
    "sleepScore": 68,
@@ -958,7 +927,19 @@
    "restingHr": 53,
    "vo2max": 55.0,
    "bodyBatteryMax": 96,
-   "bodyBatteryMin": 31
+   "bodyBatteryMin": 20
+  },
+  {
+   "date": "2026-10-13",
+   "sleepScore": 90,
+   "sleepHours": 7.9,
+   "hrv": 66,
+   "hrvWeeklyAvg": 59,
+   "hrvStatus": "BALANCED",
+   "restingHr": 49,
+   "vo2max": null,
+   "bodyBatteryMax": 100,
+   "bodyBatteryMin": 27
   }
  ]
 }
