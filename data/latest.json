@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-13T12:37:41Z",
+ "generated": "2026-10-14T09:26:34Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 2,
-   "hours": 2.1,
-   "tss": 56,
-   "km": 49,
+   "sessions": 3,
+   "hours": 4.2,
+   "tss": 156,
+   "km": 102,
    "hardDays": 1
   },
   "lastWeek": {
@@ -23,12 +23,12 @@
  },
  "powerCurve": {
   "5": {
-   "watts": 448,
-   "date": "2026-10-10"
+   "watts": 629,
+   "date": "2026-10-13"
   },
   "15": {
-   "watts": 374,
-   "date": "2026-10-08"
+   "watts": 378,
+   "date": "2026-10-13"
   },
   "30": {
    "watts": 362,
@@ -47,30 +47,11 @@
    "date": "2026-10-09"
   },
   "1200": {
-   "watts": 286,
-   "date": "2026-10-06"
+   "watts": 276,
+   "date": "2026-10-09"
   }
  },
  "activities": [
-  {
-   "id": 24386573991,
-   "date": "2026-09-16",
-   "name": "Schaarbeek Road Cycling",
-   "sport": "road_biking",
-   "indoor": false,
-   "hours": 1.76,
-   "distanceKm": 46.0,
-   "elevationM": 175,
-   "avgWatts": 132,
-   "normalizedWatts": 150,
-   "maxWatts": 600,
-   "avgHr": 145,
-   "maxHr": 164,
-   "avgCadence": 81,
-   "tss": 54.1,
-   "if": 0.56,
-   "kj": 4121
-  },
   {
    "id": 24398925668,
    "date": "2026-09-17",
@@ -602,21 +583,28 @@
    "tss": 56.0,
    "if": 0.56,
    "kj": 4259
+  },
+  {
+   "id": 24712117799,
+   "date": "2026-10-13",
+   "name": "Schaarbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 2.1,
+   "distanceKm": 52.9,
+   "elevationM": 198,
+   "avgWatts": 125,
+   "normalizedWatts": 187,
+   "maxWatts": 773,
+   "avgHr": null,
+   "maxHr": null,
+   "avgCadence": 83,
+   "tss": 100.0,
+   "if": 0.69,
+   "kj": 4703
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-16",
-   "sleepScore": 68,
-   "sleepHours": 7.0,
-   "hrv": 48,
-   "hrvWeeklyAvg": 46,
-   "hrvStatus": "NONE",
-   "restingHr": 55,
-   "vo2max": null,
-   "bodyBatteryMax": 96,
-   "bodyBatteryMin": 26
-  },
   {
    "date": "2026-09-17",
    "sleepScore": 72,
@@ -939,7 +927,7 @@
    "restingHr": 49,
    "vo2max": null,
    "bodyBatteryMax": 100,
-   "bodyBatteryMin": 27
+   "bodyBatteryMin": 16
   }
  ]
 }
