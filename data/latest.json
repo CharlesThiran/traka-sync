@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-14T10:04:13Z",
+ "generated": "2026-10-15T09:04:50Z",
  "days": 28,
  "recap": {
   "thisWeek": {
@@ -16,9 +16,9 @@
    "km": 92,
    "hardDays": 7
   },
-  "hrvLast": 66,
-  "hrv7dAvg": 60,
-  "sleep7dAvg": 74,
+  "hrvLast": 52,
+  "hrv7dAvg": 57,
+  "sleep7dAvg": 76,
   "rhr7dAvg": 51
  },
  "powerCurve": {
@@ -52,25 +52,6 @@
   }
  },
  "activities": [
-  {
-   "id": 24398925668,
-   "date": "2026-09-17",
-   "name": "The Priest - TrainerRoad",
-   "sport": "indoor_cycling",
-   "indoor": true,
-   "hours": 1.0,
-   "distanceKm": 27.3,
-   "elevationM": 0,
-   "avgWatts": 168,
-   "normalizedWatts": 206,
-   "maxWatts": 436,
-   "avgHr": 149,
-   "maxHr": 174,
-   "avgCadence": 83,
-   "tss": 68.0,
-   "if": 0.82,
-   "kj": 2481
-  },
   {
    "id": 24419873856,
    "date": "2026-09-19",
@@ -606,18 +587,6 @@
  ],
  "wellness": [
   {
-   "date": "2026-09-17",
-   "sleepScore": 72,
-   "sleepHours": 7.8,
-   "hrv": 53,
-   "hrvWeeklyAvg": 47,
-   "hrvStatus": "NONE",
-   "restingHr": 53,
-   "vo2max": null,
-   "bodyBatteryMax": 92,
-   "bodyBatteryMin": 14
-  },
-  {
    "date": "2026-09-18",
    "sleepScore": 72,
    "sleepHours": 6.4,
@@ -927,7 +896,31 @@
    "restingHr": 49,
    "vo2max": null,
    "bodyBatteryMax": 100,
-   "bodyBatteryMin": 16
+   "bodyBatteryMin": 15
+  },
+  {
+   "date": "2026-10-14",
+   "sleepScore": null,
+   "sleepHours": null,
+   "hrv": null,
+   "hrvWeeklyAvg": 58,
+   "hrvStatus": "BALANCED",
+   "restingHr": 51,
+   "vo2max": null,
+   "bodyBatteryMax": 88,
+   "bodyBatteryMin": 18
+  },
+  {
+   "date": "2026-10-15",
+   "sleepScore": 55,
+   "sleepHours": 5.0,
+   "hrv": 52,
+   "hrvWeeklyAvg": 57,
+   "hrvStatus": "BALANCED",
+   "restingHr": 51,
+   "vo2max": null,
+   "bodyBatteryMax": 93,
+   "bodyBatteryMin": 75
   }
  ]
 }
