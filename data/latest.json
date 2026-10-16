@@ -1,12 +1,12 @@
 {
- "generated": "2026-10-15T09:47:44Z",
+ "generated": "2026-10-16T08:57:07Z",
  "days": 28,
  "recap": {
   "thisWeek": {
-   "sessions": 3,
-   "hours": 4.2,
-   "tss": 156,
-   "km": 102,
+   "sessions": 4,
+   "hours": 5.9,
+   "tss": 203,
+   "km": 142,
    "hardDays": 1
   },
   "lastWeek": {
@@ -16,8 +16,8 @@
    "km": 92,
    "hardDays": 7
   },
-  "hrvLast": 52,
-  "hrv7dAvg": 57,
+  "hrvLast": 64,
+  "hrv7dAvg": 59,
   "sleep7dAvg": 76,
   "rhr7dAvg": 51
  },
@@ -583,21 +583,28 @@
    "tss": 100.0,
    "if": 0.69,
    "kj": 4703
+  },
+  {
+   "id": 24736249008,
+   "date": "2026-10-15",
+   "name": "Sint-Jans-Molenbeek Road Cycling",
+   "sport": "road_biking",
+   "indoor": false,
+   "hours": 1.62,
+   "distanceKm": 39.7,
+   "elevationM": 208,
+   "avgWatts": 128,
+   "normalizedWatts": 145,
+   "maxWatts": 549,
+   "avgHr": 139,
+   "maxHr": 169,
+   "avgCadence": 82,
+   "tss": 46.6,
+   "if": 0.54,
+   "kj": 3699
   }
  ],
  "wellness": [
-  {
-   "date": "2026-09-18",
-   "sleepScore": 72,
-   "sleepHours": 6.4,
-   "hrv": 45,
-   "hrvWeeklyAvg": 47,
-   "hrvStatus": "NONE",
-   "restingHr": 58,
-   "vo2max": null,
-   "bodyBatteryMax": 68,
-   "bodyBatteryMin": 13
-  },
   {
    "date": "2026-09-19",
    "sleepScore": 85,
@@ -920,7 +927,19 @@
    "restingHr": 51,
    "vo2max": null,
    "bodyBatteryMax": 93,
-   "bodyBatteryMin": 75
+   "bodyBatteryMin": 24
+  },
+  {
+   "date": "2026-10-16",
+   "sleepScore": 74,
+   "sleepHours": 6.5,
+   "hrv": 64,
+   "hrvWeeklyAvg": 60,
+   "hrvStatus": "BALANCED",
+   "restingHr": 52,
+   "vo2max": null,
+   "bodyBatteryMax": 92,
+   "bodyBatteryMin": 26
   }
  ]
 }

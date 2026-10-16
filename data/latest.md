@@ -1,11 +1,11 @@
 # Garmin — last 28 days
-_generated 2026-10-15 09:47 UTC_
+_generated 2026-10-16 08:57 UTC_
 
 ## This morning's recap
 
-**This week so far:** 3 sessions · 4.2h · 102km · 156 TSS · 1 hard days
+**This week so far:** 4 sessions · 5.9h · 142km · 203 TSS · 1 hard days
 **Last week:** 8 sessions · 3.9h · 92km · 158 TSS · 7 hard days
-**Recovery:** HRV 52 (7d avg 57) · sleep 76 · resting HR 51
+**Recovery:** HRV 64 (7d avg 59) · sleep 76 · resting HR 51
 
 ## Power curve — all-time bests
 
@@ -27,6 +27,7 @@ Latest: **55.0** (2026-10-12) · earliest in window 55.4 (2026-10-02)
 
 | Date | Sleep | Hrs | HRV | RHR | Body Battery | VO2max |
 |---|---|---|---|---|---|---|
+| 2026-10-16 | 74 | 6.5 | 64 | 52 | 92 | — |
 | 2026-10-15 | 55 | 5.0 | 52 | 51 | 93 | — |
 | 2026-10-14 | — | — | — | 51 | 88 | — |
 | 2026-10-13 | 90 | 7.9 | 66 | 49 | 100 | — |
@@ -54,12 +55,12 @@ Latest: **55.0** (2026-10-12) · earliest in window 55.4 (2026-10-02)
 | 2026-09-21 | 89 | 7.7 | 61 | 52 | 100 | — |
 | 2026-09-20 | 62 | 6.4 | 33 | 55 | 64 | — |
 | 2026-09-19 | 85 | 8.4 | 62 | 53 | 100 | — |
-| 2026-09-18 | 72 | 6.4 | 45 | 58 | 68 | — |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-15 | Sint-Jans-Molenbeek Road Cycling | road_biking | 1.62 | 39.7 | 208 | 128 | 145 | 46.6 | 0.54 | 139 | 82 |
 | 2026-10-13 | Schaarbeek Road Cycling | road_biking | 2.1 | 52.9 | 198 | 125 | 187 | 100.0 | 0.69 | — | 83 |
 | 2026-10-12 | Mechelen Running | running | 0.31 | 3.0 | 11 | 281 | 285 | — | — | 153 | — |
 | 2026-10-12 | Schaarbeek Road Cycling | road_biking | 1.82 | 46.3 | 167 | 132 | 150 | 56.0 | 0.56 | 147 | 85 |
