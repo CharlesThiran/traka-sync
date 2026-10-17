@@ -1,9 +1,9 @@
 # Garmin — last 28 days
-_generated 2026-10-16 09:40 UTC_
+_generated 2026-10-17 08:29 UTC_
 
 ## This morning's recap
 
-**This week so far:** 4 sessions · 5.9h · 142km · 203 TSS · 1 hard days
+**This week so far:** 5 sessions · 6.7h · 164km · 227 TSS · 1 hard days
 **Last week:** 8 sessions · 3.9h · 92km · 158 TSS · 7 hard days
 **Recovery:** HRV 64 (7d avg 59) · sleep 76 · resting HR 51
 
@@ -13,8 +13,8 @@ _generated 2026-10-16 09:40 UTC_
 |---|---|---|
 | 5 sec | 629 | 2026-10-13 |
 | 15 sec | 378 | 2026-10-13 |
-| 30 sec | 362 | 2026-10-08 |
-| 1 min | 341 | 2026-10-08 |
+| 30 sec | 350 | 2026-10-08 |
+| 1 min | 336 | 2026-10-09 |
 | 5 min | 317 | 2026-10-09 |
 | 10 min | 308 | 2026-10-09 |
 | 20 min | 276 | 2026-10-09 |
@@ -54,12 +54,12 @@ Latest: **55.0** (2026-10-12) · earliest in window 55.4 (2026-10-02)
 | 2026-09-22 | 86 | 7.3 | 57 | 55 | 95 | — |
 | 2026-09-21 | 89 | 7.7 | 61 | 52 | 100 | — |
 | 2026-09-20 | 62 | 6.4 | 33 | 55 | 64 | — |
-| 2026-09-19 | 85 | 8.4 | 62 | 53 | 100 | — |
 
 ## Activities
 
 | Date | Name | Type | Hours | km | m | Avg W | NP | TSS | IF | Avg HR | Cad |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| 2026-10-16 | Schaarbeek Road Cycling | road_biking | 0.84 | 22.5 | 71 | 130 | 145 | 24.0 | 0.54 | 143 | 85 |
 | 2026-10-15 | Sint-Jans-Molenbeek Road Cycling | road_biking | 1.62 | 39.7 | 208 | 128 | 145 | 46.6 | 0.54 | 139 | 82 |
 | 2026-10-13 | Schaarbeek Road Cycling | road_biking | 2.1 | 52.9 | 198 | 125 | 187 | 100.0 | 0.69 | — | 83 |
 | 2026-10-12 | Mechelen Running | running | 0.31 | 3.0 | 11 | 281 | 285 | — | — | 153 | — |
@@ -88,4 +88,3 @@ Latest: **55.0** (2026-10-12) · earliest in window 55.4 (2026-10-02)
 | 2026-09-22 | Schaarbeek Road Cycling | road_biking | 1.77 | 46.0 | 157 | 126 | 142 | 48.8 | 0.53 | 144 | 81 |
 | 2026-09-21 | Schaarbeek Road Cycling | road_biking | 1.76 | 45.2 | 150 | 120 | 136 | 44.5 | 0.5 | — | 80 |
 | 2026-09-20 | Schaarbeek Road Cycling | road_biking | 0.88 | 19.2 | 122 | 99 | 120 | 17.2 | 0.44 | 129 | 74 |
-| 2026-09-19 | Schaarbeek Road Cycling | road_biking | 4.5 | 125.4 | 1181 | 156 | 209 | 152.6 | 0.77 | 160 | 77 |
